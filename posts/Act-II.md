@@ -46,7 +46,7 @@ Then they head to Yuncheng (festival rock). As per [[Act I-II Planning|the plann
 
 ### Session X (20/02/2026)
 Some stuff from last session: 
-- A stargazer (probably [[Brainstorming#Eivor & Rose|rose]]) knows about pre-cutoff peraxian blacksphere research and the elf involved (it's [[Brainstorming#Shuri Sobek|shuri]] lmao)
+- A stargazer (probably [eivor](/posts/Brainstorming.md#eivor--rose)) knows about pre-cutoff peraxian blacksphere research and the elf involved (it's [[Brainstorming#Shuri Sobek|shuri]] lmao)
 - A different stargazer by the name of Silas is the one who experimented next to the blacksphere and first discovered remnants/remnant crystal (the black stuff).
 - The 'locate person' and 'locate object' on the astro archive have *substantially* larger range - a couple of systems or so.
 
