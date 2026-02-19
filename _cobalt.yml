@@ -1,7 +1,10 @@
 
 site:
-  title: cobalt blog
-  description: Blog Posts Go Here
+  title: Birdhouse
+  description: Kestrel's blog and stuff
   base_url: http://example.com
 posts:
   rss: rss.xml
+template-extensions:
+  - md
+  - liquid

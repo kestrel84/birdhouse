@@ -1,7 +1,7 @@
 ---
 layout: default.liquid
 ---
-## Blog!
+## Stuff and things
 
 {% for post in collections.posts.pages %}
 #### {{post.title}}

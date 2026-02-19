@@ -1,0 +1,342 @@
+---
+title: brainstorming
+layout: default.liquid
+---
+# Places to borrow ideas from
+- Spelljammer, obviously
+- HSR for the large-scale organisations, structure of the universe type deal, weird shit, and perhaps the concept of aeons
+- Arcane's version of hextech for the magitech vibes
+- Starburst galaxies are awesome and I want one (see wikipedia)
+- ZZZ for hollows (I have no imagination apparently)
+# Worldbuilding
+## Mechanics
+This stuff is how the world physically functions - most importantly, the rules governing magic. Doesn't have to make a lot of sense but more is better.
+### Stellar Physics
+Without the interference of humans, gods or any other creatures, stellar physics works as normal. Stars go through seqences, you've got black holes, all types of planets, et cetera. Stars are the normal distances away from each other in realspace aka wildspace, galaxies exist, there's a galactic core where there are a lot of stars much closer together than you'll find in the outer circles.
+
+The setting is an ring galaxy rather than a spiral one. There are a ton of rings, generally referred to as 'circles'. There are three sets of rings (outer, mid and core) each of which is made up of a bunch of smaller rings.
+### Travel
+#### Spelljamming ships
+##### Astral Sea
+Interstellar travel works via something called the astral sea. It's a literal sea, just a very cloudy misty white instead of normal blue water. It's another plane sitting underneath the material, and some spelljamming ships, when inscribed with the right runs, can plane shift to it in order to travel between stars much quicker than you can normally travel interstellar distances. This is a good idea because the astral sea is much much smaller than the material plane (like the nether to the overworld). 
+
+Large gravity forces manifest as literal whirlpools in the astral sea, and anything planetsized is big enough to wreck your ship if you're not careful. The galactic core is a mess of black holes and red giants and legend has it that only extremely skilled pilots were able to safely navigate it's turbulent waters. 
+
+There are currents in the Astral Sea, mostly in the core. They aid navigation and travel generally, which is espeically useful in the core.
+
+Access to the weave is limited in the sea, making it customary for ships to sail on the sea, rather than flying (which is much more glitter-intensive.) 
+
+##### Wildspace
+Wildspace travel is limited to 100,000,000 miles per day. This translates to 6,800,000km/hr (about 0.006c) and 1AU in 22 hours, so roughly 1AU per day. Convenient. This means that Pluto at 39.5AU is about a month away from the sun (or two if you're unlucky). This speed takes a few hours to get up to, though, even though you accelerate exponentially up to this speed.
+
+##### Normal
+Travel while within a gravity well is limited and plane shifts will get your ship wrecked in a literal whirlpool. While there's no reason ships can't accelerate to their normal wildspace speeds in a gravity well, there's the practical reality of not crashing into things and so travel is normally reduced to speedboat/plane speeds depending on the travel medium.
+
+#### Other means
+Gate spells still work across interstellar distances, anything which transports you to the astral plane gets you to the astral sea (so you'd better not do it while on a planet). 
+Update 2025-07-18 - I prefer the idea of gate spells being wormholes, and as such they are lost spells and have been since the elven collapse.
+
+Teleportation circles also work between systems, and there's rumours of them being publically available in the core worlds. These days, though, very few teleportation circles are kicking around and almost all are well hidden.
+
+### Magic
+Starting off, we have the weave from vanilla D&D. It's an unlimited energy well which is the source of all magic. Any magic user or magic machine draws it's energy from the weave and is shaped by, in the case of a person, their will, or in the case of a machine, very precise instructions, like those found in a spell scroll.
+
+#### Spellcasting
+All sentient beings can channel the weave. The reason everyone's not going around slinging spells is that the energy of the weave is useless without very precise forming. The knowledge of how to form the weave can come from many, many places. 
+- Wizards study the weave and, through millions of person-hours of trial and error have learned how to shape the weave to their will, almost through brute force. The spellbooks of wizards contain the instructions of how to perform their spells. The greatest wizards are so good at channelling the weave that they can do almost anything imaginable, literally.
+- Clerics recieve the knowledge of how to shape the weave from the gods they worship, as gifts in return for devotion. The greatest clerics have recieved all of the most powerful magic from their patron and may even be able to channel a fraction of their god's true power.
+- Warlocks are very similar, but they recieve their knowledge from a patron as part of a pact rather than as a reward for devotion. Favoured by beings from the various hells but not exclusively used by them. The greatest warlocks, like the greatest clerics, have recieved the height of their patron's magic and may even be able to harness their patron's link to the weave.
+- Sorcerers are the most different to vanilla D&D. Instead of bloodline magic, they instead inherit a family tradition for magic. The subclasses are different sources for the magic practiced by these families. The greatest sorcerers inherit ancient spells passed down for generations and achieve absolute mastery over them.
+- Bards are lucky, basically. It turns out that the weave responds particularly well to songs and stories as instructions, and so it is possible that ancient storytellers and artists were among the first to tap into the weave. The greatest bards weave epic tales into form, inspiring others with the power of their stories as they channel magic through song.
+- Druids can read the instructions in the environments around them, from planetary environs all the way out to the pulsing of quasars. The greatest druids have travelled far and wide across the galaxy and can feel the very movement of the stars, seeing in them the fundamental patterns of magic.
+- Artificers look to creation to understand magic. By inscribing glitter-imbued runes on machines they can direct them to perform innumerable functions. Like wizards, their study is systematised, but instead of pondering countless dusty tomes they seek to tinker, breaking things down before building them back up with new understanding. The greatest artificers have mastery over all creation, able to make anything the heart desires. What does it matter if there are a few explosions along the way?
+- Rangers follow in the footsteps of the great druids, but they care not for weaving the patterns of the universe to their will. They instead push forwards, caring only for the new thing around the corner, and sometimes this yields them a useful tool. The greatest rangers blazed trails still followed to this day, setting off fearlessly into the astral sea. 
+- Paladins follow the traditions of their brothers the clerics. While no less devoted they care more for honing their blades than their minds. The greatest paladins achieve the heights of both, channeling all the power of their god into their weapons for maximum impact.
+The more powerful the spell, the more energy has to be channeled through the caster. This can be made much easier with the aid of weave conduits, most commonly arcane focuses. If someone tries to channel more energy than they can control, this has very bad effects, including but not limited to hijacking nearby spells and magical effects. At its most extreme it corrupts living being and even whole spelljammers by channeling ridiculous amounts of energy through them. For as yet undefined reasons, this causes them to become hostile to people.
+
+#### Machines
+Spells themselves are simply instructions, at a basic level. This is why machines can be created which channel the weave, why you can put a plane shift on the hull of a spelljammer. A glyph of warding was one of the first known discoveries of this, but since then, many advancements have been made, and now we have integrated magic into many things. More details in [[#Technology]].
+
+Glyphs are the most basic machinery, and the basis for all subsequent 
+
+#### Glitter
+It is possible to crystallise the weave into fragments which resemble snowflakes. Since the collapse of the core no-one knows how to create it but it remains abundant in asteroids throughout the many systems in the galaxy. Glitter is required to power any machines which operate magically, and as such is the fuel for, among many other things, spelljammers. It's mined out of the cores of asteroids (among many other places) and is the reason that asteroid settlements even exist. Glitter is also the main currency among wildspacers, though planets may still use other systems. 
+
+For ruling simplicity, a unit of Glitter is about the size of a penny, looks like a snowflake coloured a piercing cyan and worth the same as a gold piece. It has also since its discovery largely replaced gemstones in all spells which require them, though finding the matching gemstone for a specific spell will half the value required to cast it. It also condenses naturally when in large quantities, making it reasonably easy to carry lots of it.
+
+## Cartography
+The layout of the universe, basically.
+
+There's a galactic core, then the mid-circles, then the outer circles. The galaxy is not spiral, it's more or less a flat circle. 
+
+The galactic core is much, much denser than the rest of the galaxy, home to a large quantity of red giants and black holes as well as (up until 100 years ago) the majority of the galactic population. The high concentration of massive objects means that the astral sea is extremely treacherous in the galactic core, full of whirlpools which have to be carefully woven between, and rumours of more serious threats. It's also rumoured that the most prosperous worlds in the core were linked by permanent, publically available teleportation circle networks. These days only very large and prosperous organisations have the resources to construct and use such a network, and even when they do they are mostly kept well hidden.
+
+![[ring galaxy.png]]
+## Organisations
+The main large-scale organisations in this universe. Large nation-states, corporations, associations, guilds, et cetera.
+### Active
+#### Schools of Wizardry
+While not a formal organisation, all wizardry schools maintain a loose association with each other, and sharing knowledge is common practice. They mostly keep to themselves, content to tend their libraries and attend each other's conferences, but purely by nature they are a powerful force of many highly experienced mages. They take a natural interest in obscure and interesting magical phenomena of any and all kinds, and many are actively researching the black sphere. Speaking of which, they were extremely affected by the cutoff as many of the best and most renown wizardry schools were in the core.
+
+This also covers like most schools, even elementary ones, since they're mostly just charity operations run by wizards rather than any formal system.
+
+Since they aren't formal they have no set leaders or leadership structure, but generally deference and priority is given to the oldest and most experienced mages and schools.
+#### Shipbuilder's Guild
+More or less what it sounds like. Doesn't maintain any standing military force; it's mostly a political organisation which works to advance the interests of shipbuilders. Gained a lot of power in the aftermath of the cutoff as lots of people suddenly wanted ships now; previously they were a small fringe entity and most shipbuilders were independent.
+
+Led by a council of 5 or so elder shipbuilders, mostly dwarves and other long-lifers who remember the cutoff. They are consequently fiercely protective of the status gained from the collapse.
+#### Yihan-Gemini Mercantile Conglomerate
+A bunch of different trading and cargo companies operating across various sectors of the mid-circles. Most of the companies are owned by either the Yihan Corporation or the Gemini Corperation, which have a very close relationship despite being about the same size (a duopoly, basically). Most of their operations were already in the mid-circles so the collapse was comparatively light on them, loosing only a few small companies each.
+
+Led by a board of directors and executor for each company. 
+#### Taikon Syndicate
+A large criminal gang run by the Taikon family. Operations span mercwork, smuggling, drug trafficking, illegal glitter mining, the works. Try not to get into the public eye, as it makes doing business needlessly complicated. They have no end of hideouts across the mid-circles, where they mostly operate. 
+
+They have risen to power in the years since the collapse, taking advantage of the lack of central authority and uncertainty.
+#### Jianfeng Alliance
+The only remaining galactic-scale political body. A collection of around 30 planets and extraplanetary settlements encompassing maybe a tenth of the mid-circles. It's influence is limited even compared to the YGMC and since the cutoff it has spent most of its time dealing with internal issues and reinforcing its position.
+
+It's centered around nine habitable planets all very close to each other, the orignal nine in the alliance. They all used to be peraxian colonies, after peraxia's starwatchers saw this unusually dense collection of habitable planets. They gained their indpendence not too long before the collapse and that's one of the reasons they're currently focusing inward.
+
+Every year the leaders of each member planet/settlement come together for a week to determine the course of the alliance, the results of which is passed on to a small executive comittee to actually execute.
+#### Stargazers
+A secretive sect of druid and ranger type people, watching the formation of stars and the galaxy for unusual developments. Very distributed and mostly uncoordinated, they are also the frontier of exploration of the outer circles. Legend has it that they voyage the outer circles constructing teleportation circles wherever they go, known only to them.
+#### Elven Armada
+A loose collection of a particular sect of elves who, upon the destruction of their homeworld, took to the astral sea in the largest spelljamming ships in the galaxy. Their entire society is now contained in these ships, which are as large as most extraplanetary settlements. They are eccentric and reclusive, and no-one knows where they have been since at least fifty years before the cutoff.
+
+Leadership was a military command structure, even after the armada ceased engaging with other societies. Details are thin on the ground but it is rumoured that every citizen has a rank regardless of their position in society.
+### Inactive
+#### Peraxian Federation
+A galactic-core society with a limited presence in the mid-circles. They're non-expansionist and keep to themselves for the most part, so not much is known about life in the federation. Stories are told about its prosperity and peace, and about its decadence and debauchery. Since the cutoff, any federation planets and ships have had no contact whatsoever with the central authority and are mostly drifting. Most military ships have formed a loose association of mercs-for-hire while they wait for news from past the black sphere. 
+
+Leadership was a senate in which each planet and extraplanetary setting got an elected representative. Split across two parties (the reservationists and the liberationists), leadership alternates between the head of each party every four years. The reservationists are about protecting the existing federation, making life better for those in it, while the liberationists are about building and progressing as fast as possible.
+#### Something Empire
+The second of the two main forces in the galactic core. A very empricial empire, they take the Roman tradition of assimilation rather than annihilation and are pragmatic enough to have had a tense detente with the federation for at least a few decades pre-cutoff, with only light skirmishes for another few decades before that. Like the federation, their mid-circle presence is limited to a few planets and a small complement of ships, which have likewise formed into a different loose association of mercs.
+
+Pre-cutoff their influence was already fading somewhat and their cultural presence was much less monolithic than the federation's.
+
+Lead by an emperor whose word was absolute, but with a strict term limit of seven years. Said emperor chose how to run the state but generally maintained a circle of advisors and senior commanders.
+## Places
+Significant places in the universe. Could be systems, planets, cities, or anywhere really.
+### Starburst Galaxy
+The galaxy the story's in! So named for the frequent formation of new stars (even more than in real life starburst galaxies). A more or less circular galaxy (as opposed to spiral). Se cartography.
+### Peraxia
+Home and origin planet of the eponymous federation. Most of the time the Radiant Starcutter is to be found not too far away.
+#### Radiant Starcutter
+The extremely large ship which hosts the Peraxian senate. Legendary as the largest ship outside the elven armada, and for it's galaxy-renown craftsmanship and design.
+### Cloud Nine
+The seat of the Jianfeng Alliance. An asteroid deep in the center of the alliance, which looks like a massive cloud floating in space.
+### Rock of Braal
+Classic spelljammer starting location
+### Nowhere
+The core and administrative center of the something empire. An exoplanet located at the exact centerpoint of the empire's territory, it requires special navigation equipment to find, hence the name. The location of whatever the PCs are looking for and the truth about Lancelot (aka Stendahl).
+
+### Miscellaneous Places
+Cool places with no connection to the story as yet.
+
+#### Hollow planet 
+dwarf planet, maybe
+#### Floating cities 
+on a gas giant, steampunk style
+#### Parking swarm 
+a giant mass of ships all on top of each other, with the center being an ~~ancient elven cityship~~ an old refueling stop. it's on the edge of the alliance, center for a lot of smuggling. hive of scum and villany type beat. 
+#### Golantio Observatory 
+a bunch of lenses suspended in space in front of a small asteroid which houses the observation equipment and the best model of the galaxy in existence outside the core. Strong connections to the local wizard school, the Golantio Academy. Perhaps the place the PCs need to go to in order to locate the armada.
+
+#### Ringworld 
+a ring going all the way around the sun (not an orbital). Constructed aeons ago by unknown peoples, and virtually indestructible.
+#### Gemini depot $\Omega$-17 
+One of Gemini Inc.'s warehouse-asteroids. The interior is a mess of zero-g shelving and boxes floating around of their own volition, and is highly dangerous.
+#### Klemperer Rosette
+a system of five bodies all orbiting a common center in a pretty pattern.
+
+#### The Vixie Arcology
+a floating city on a water moon. Made of a quilt of pontoons that can bend over the 500m tall waves. Induces motion sickness 
+
+#### The worldships of Shenzhen-Zao
+a very large cargo spelljammer made an emergency landing on this planet many hundreds of years ago. After it became clear that the only land on the planet was at the uninhabitably cold poles, the cargo ship slowly morphed into the first of the worldships, giant floating cities which gradually circle the planet following the tidal forces of its moon the Zao. These days it's mostly known as a pleasure destination rich core tourists come to when they want the pretense of travelling out to the mid-circles.
+
+#### The bus
+a rogue planet which travels around the entire mid-circle once every 10000 years.
+
+#### The pelego
+A giant air bubble containing hundreds of tiny asteroids. the docks are on the outside to prevent disturbance of the air bubble and the tiny asteroids are linked by floating platforms (of the kind found in amphoreus, HSR)
+
+## Characters
+### Matthew Langley Jacobson
+Lovable rogue with a heart of gold and captain of the storm chaser. Old-timer elf who's seen much the galaxy has to offer and has been running cargo for most of those years. Been looking for the armada ever since it's dissaperance, but is quite laid back about it and takes on odd jobs here and there. A true ranger at heart.
+### Kira 
+An oortling mechanic. Young but with a wicked talent for glittertech. Is fascinated with the blacksphere and doesn't understand other's apprehension for it - her life goal is to find out what's inside, fuelled by glimpses of the past from her armour's psicrystal. Artificer who will take anything she can apart.
+### Thersham London
+Giff captain of an (ex-)peraxian military ship, the Starplane Compass. It's the largest peraxian ship this side of the core, but it's a large cargo hauler with comparatively little weaponry for its size. However, it's hiding a spinal railcannon running the length of its cargo bay. As for the captain, a solid, dependable man who cares greatly for his crew. He inherited the role from its previous holder after an unfortunate accident, but with the absence of peraxian central command he's not really known where to take the ship. A barbarian.
+### Lancelot, seventh son of the seventh son (AKA Darius Stendahl)
+The main antagonist, son of the something emperor, exiled just before the collapse. He's extremely charismatic, capable of rallying many to his cause through reasonable talking points and then slipping in the sinister stuff later. Sees himself as the whole world's knight in shining armour. He wants revenge on Peraxia for causing the cutoff and killing the empire. First introduces himself to the PCs as some peraxian noble or other called Darius Stendahl. He is an accomplished archmage with no scruples about where he gets his magic from. A human who's been using energy from the blacksphere to live much longer than normal.
+### Shuri Sobek
+The researcher who caused the cutoff. She was born just after the destruction of the elven home planet and threw herself into researching spacetime magic despite the caution of her then-wife Hermia, leading to their eventual split. Fled the armada to take up a research post at the biggest wizard school in Peraxia, known for its very permissive attitude to research, especially during and immediately after the last war of empires. Her research was into defence against space-bending magic, which led to the blacksphere.
+
+### Reginald Blackstaff
+Served under Captain Jake ~90 years ago alongside Darius/Lancelot. Discovered the remnants some time ago (15 years?). 50 years ago he discovered and stopped a dragon cult intending to hatch a space dragon in the middle of the alliance.
+
+### Carter Lee
+A friend of Captain Jake. Personality and purpose undecided.
+
+Carter's looking for the elven fleet. At present moment is following some leads and rumours about a hidden elven monk sect in some backwater system on the outer edge of the Alliance. They are a non-binary druid affiliated with the Stargazers in about as much capacity as is normal.
+### Faction Heads
+#### Hermia Sobek
+650 years old, and a baller who forswears all magic after it destroyed her homeland. Level 20 fighter, absolute hardass, runs the armada with ruthless efficiency. Her goal is to take the armada into the outer circles and establish a new civilisation so far from everywhere else that no-one can harm it again. Bad idea, there's a lot of danger in the outer circles, but understandable reasons. Anticipated the cutoff before hand and moved the armada outside accordingly - she was an old flame of the researcher looking into it.
+#### Jindao Taikon
+A Xichil, and the current head of the taikon syndicate. He's been living for a very long time through body modification, having to be hooked up to a big machine to keep living inside his spider ship, the Arakhelion. He has eight children who run different parts of the syndicate. His goal is to live forever, perhaps by reincarnating into a new body somehow. As a result of researching this, combined with his body mods, he is quite the accomplished sorcerer. Saw the cutoff as a business opportunity more than anything else, and the syndicate has been on the rise in the last hundred years.
+#### Eivor & Rose
+The nominal leader of the stargazers, a powerful, enigmatic and ancient druid with a companion space dragon, Rose. Spends most of their time exploring the outer circles with Rose. Occasionally stops by stargazer coves to share stories.
+
+Note: due to my dumb ass mis-remembering it, the names of the dragon and the druid have been swapped 
+## History
+Major events in the past of this universe affecting large populations.
+
+A short note, political and cultural cycles are a lot longer than they are in real life, due to a large portion of the population living a lot longer. Notably elves live twice as long as anyone else and their insular culture reflects this.
+### Post-cutoff
+Faction stuff:
+- The Taikon Syndicate has risen up in the last hundred years or so as the dominant player in the various illegal (or at least less savoury) activities. 
+- The Jianfeng Alliance has switched from a very expansionist, outward-facing stance to a much more defensive one following the cutoff as they did a lot of business with the core and the cutoff hit them pretty hard.
+- The schools of wizardry have become even more reclusive as more and more of their members start researching the black sphere, even more so as it starts expanding
+- The Empire and the Federation are more or less gone barring some tourists and soldiers
+- YGMC is business as usual, though on a downturn recently as more or less everyone is becoming more reclusive
+- The shipbuilder's guild is booming as more people want ships, one trend from the immediate post-cutoff years which isn't looking like it's going to tail off soon.
+
+Immediately following the cutoff, there was a decade or so of everyone panicking, with many spelljammers running to the outer circles never to be heard from again. This panic combined with the prosperous core trade routes becoming nonexistent resulted in a prolonged downturn in your average person's general welfare. While most space settlements were self-sufficient for basic necessities they often lacked large-scale industry and there was a significant regression. This came with the associated political nihilism giving rise to religious fundamentalism and a lot of skepticism for established power structures, especially those with close ties to the old regime like the schools of wizardry and the jianfeng alliance. Hence since the cutoff both organisations have been fairly inactive, remaining out of the limelight. For the schools, this manifested as a lot of prestige schools slowing admissions way down and a general period of introspection. For the jianfeng alliance, this meant a longtime focus on internal politicking rather than their previous loose expansionism and carefree vibe.
+
+### Cutoff
+Around 100 years ago the entire galactic core got cut off from the mid-circles and outer circles by an enormous plane-crossing black sphere. It appears to be indestructible, made of something never encountered before and completely solid. Renders the entire interior inaccessible. The event has coloquially become known as the cutoff. The hook for the campaign is that the sphere is expanding and the mid-circles are in danger. 
+
+The cutoff happened suddenly but not instantaneously, with the sphere epxanding over the course of a week or so (which considering the size of the galactic core is still ludicrously fast and well over the speed of light). This meant a lot of panic ensued, even though most of the core had no time to react. The only ones who made it out were ships on long patrols around the edge of the core.
+
+### Pre-cutoff
+A few notable historical events here. 
+- The **war of the empires** was the last great war in the galactic core, fought over two hundred years before the collapse, between the Peraxian Federation and the Something Empire. It was the first (and last) use of large-scale glitter weaponry; while the Empire technically came off the victors, there was sufficient scorched earth between the two of them to result in a shaky ceasfire which eventually softened into a detente. 
+- The **flight of the elves** was the construction and launch of the elven armada around 600 years ago during the spaghetification of their world around a black hole created in the catastrophic faliure of a 'black hole bomb'. This was created somewhat by accident by a powerful mage researching the limits of mega spells with the tacit approval of elven high command, who were at that point engaged in a proxy war with the neighbouring system for control over a particularly glitter-rich asteroid belt. After this event, elves became something of a rare occurence in the galaxy. It occured at a similar time to the war of the empires, in one of the smaller conflicts which led up to the war proper. Also, magic which warps spacetime became lost and research into it was discouraged. 
+- The **discovery of glitter** around 10000 years pre-collapse. Glitter was first discovered by gnome ships in the origin system. Unfortunately some magic shenanigans happened which ended up with the entire asteroid belt falling into the origin sun, causing it to go supernova. This then resulted in a large-scale evacuation of the origin system, aka the **diaspora**, with those lucky enough to have access to a level 8 spell slot being temporal stasised a few hundred years into the future. Some generation ships were built as well.
+- The **discovery of the astral sea** was around 800 years pre-cutoff, when some wizard tried to plane shift an entire ship. That wizard was peraxian and is one of the key figures in peraxian mythology.
+
+
+## Technology
+The current general technological level, as well as notable innovations in recent history.
+
+Main thing here is glitter and the associated glittertech. Now glitter is a form of solidified magic which acts as an extremely potent energy source for glittertech. It's mined out of asteroids, which can have cores made of glitter for reasons as yet unknown. Can also be found in other unusual places, like sieved from the subsurface layers of gas giants and from subsurface oceans on europa-type planets. 
+
+Since spells are instructions, you can use glitter-inscribed runes to cast spells without sentient intervention. The most basic version of this is the plane shift spell inscribed on the hull of all spelljammers. This has been refined over a very long time by generations of artificers, who in the years before the cutoff were rumoured to even be able to create lifelike automatons. 
+
+Glittertech allows you to do all manner of things, but many inventions were lost during the cutoff as the core's enormous glitter reserves led to much of the innovation being concentrated there. The federation was known to have a slight edge over the empire in technology due to it's more liberal stance and less controlling attitude.
+
+Notable innovations present in the midcircles include firearms, highly decorated levitating conveyances used by the upper class, levitating cargo carriers as a much more utilitarian version of the aforementioned, large-scale artificial light sources, infinite water and food (though the systems for those are too large to fit on any normal-sized spelljammer), waste disposal, air, gravity. Since glitter is almost universally found in space on places other than habitable planets glittertech is very focused on spelljammers and extraplanetary settlements.
+
+I guess add inventions as it's convenient - in terms of restrictions, spelljammers still have to carry food and water and air is time-limited by it growing stale without organic refreshment. Waste disposal is easy though - dematerialising stuff isn't hard.
+
+On that note, glittertech is also responsible for most ship weaponry. Stuff like fireball launchers, one-man ballistae and cannons, and more. Glittertech generally is very easy to make weapons with, it's just that the runes required for more powerful spells are literally larger, limiting the effectiveness of handheld weaponry. People aren't going around with glitter-powered handheld dinsintegration cannons (though a ship-mounted super disintegration cannon, maybe?)
+
+### Storm Chaser
+The PC's ship. At the beginning, it's owned by captain jake, who subsequently dies, leaving the PCs in control. It's an old elven armada long-range scout craft, with large cargo holds and a tree in the middle providing unlimited oxygen. Not the largest or the heaviest hitter, but an extremely versatile craft which can be upgraded at the PC's wishes.
+
+### Blacksphere
+This was originally a device for capturing magic directly from people. Failed catastrophically. Anyone who is killed by having their magic drained inside the sphere is reanimated as a corrupted entity (real name tbc), the main enemy faction of the campaign.
+
+Update: having thought about it a bit more, it doesn't really make sense for people's magic to be drained, since people aren't made of magic and don't have a magic part of themselves. They channel magic from the weave through themselves in order to cast magic. So there's not really any magic to drain. It could perhaps be that the blacksphere simply channels ridiculous amounts of magic through people's bodies, killing them that way, but that feels like a cop-out. Another problem is that people turning into the monsters you fight is uninteresting at this point - it's a trope on its own. I do kinda need a faceless horde for gameplay purposes, though; it would be very useful to have the blacksphere result in fightable enemies. Another cop-out idea is for the enemies to somehow be related to the blacksphere's creator (inner demons or whatever).
+
+I also like the idea that the fundamental tech of the blacksphere is magic capable of warping spacetime itself; magic thought lost after it catastrophically destroyed the elven homeworld.
+#### Corruption protection tech
+Some device for protecting oneself from the corrupting and magic-draining effects of the blacksphere while inside. Preliminary ideas include a localised antimagic field projected by the ship. As fairly powerful magic users by the time they're inside the blacksphere, the PCs have a good few hours before they get corrupted (though it does drain spell slots/whatever class resource to operate outside the ship), meaning that while they can't cast spells on the ship they are completely protected from corruption. This antimagic field also only nullifies sentient spellcasters, so the ship's mechanisms are all fine. 
+
+Update: a possible way of protection is that since the blacksphere channels magic energy, just put an enormous conduit in the ship. Smaller amulet type conduits could provide temporary respite.
+
+#### Blacksphere corruption (added 2026-02-04)
+So at this point in the campaign the PCs have encountered a large quantity of black crystal monsters (aka remnants), as well as a few ships overtaken by the same substance (aka shardships). The way this works is that the blacksphere channels weave through glitter (and people if available), in the process creating shardships and remnants respectively.  
+
+
+## Faith
+Current major religions and gods.
+### Religion
+Initial plan is to have it be a greco-roman type system with loads of different localised deities. So most mid circle deities are descended from the peraxian pantheon as peraxia did most of the early settling. The empire, as was it's custom, mostly allowed the religion of wherever it conquered to persist, occasionally overlaying its own festivals and such. As a result there's basically one pantheon of the sameish gods for the whole galaxy (how convenient). They do get different names wherever you go and slightly differing responsibilities.
+
+Now as for the cutoff, since the gods lost their largest worship bases they are now split between all the slightly different mid-circle versions of themselves. If the party ever has cause to try and talk to a god, then they are effectively suffering from split-personality disorder as a result. Gods themselves reside more or less inside the weave and are beings of pure magic, making them very able to give (instructions for) magic to their followers.
+
+In your small-time towns and settlements not within any larger society, like most of the mid-circles, there might be a few local festivals each year, which align with any special celestial features of that particular solar system. Temples are also small-time affairs since the cutoff, only a few in each settlement for whichever local deity is most important.
+
+As for the Jianfeng alliance, they used to be an organised collection of peraxian colonies as opposed to the wild-westy kind settler towns put down by tradespeople and travellers which is what most of the mid-circles consits of. Consequently they inherited the peraxian religion wholesale and is now the only place it survives intact.
+### Hell
+So at this point I don't really know what to do about hell - demons and devils are quite a big factor in regular D&D, but I don't know where to put them. But I do need to put them somewhere in order for warlocks to work.
+
+Idea one: have it be an alternate dimension, like the astral sea, in which there's an alternate entire galaxy of 'hell planets'. This... feels wrong somehow.
+
+Idea two: basically the nether. Similarly to the astral sea, hell is both flat and much smaller than the galaxy. Also in theory faster than travelling through the astral sea, but much more dangerous, because of, you know, demons. Like this a lot more. Further: Hell isn't flat, not really. It's basically an unlimited network of caves. It consists of nine layers, each of which is a set of circles, much like the actual galaxy.
+
+## Peoples
+The current peoples of the galaxy and their histories. 
+
+The deal is that the origin of sentient life is all from one planet, but that was millions (?) of years ago and no-one remembers where or what planet it was. 
+### 'Normal'
+#### Humans
+Found more or less everywhere, they are the largest population group in the galaxy. You know their lifespan.
+#### Elves
+Rarely seen outside the elven armada and the stargazers, low in number. Tall and easily noticeable. Live up to 750 years.
+#### Dwarves
+They have an aptitude for glittertech and a liking for shipbuilding that has resulted in them being widespread around the galaxy, similar to humans. Lifespan shorter than elves at 350 tops.
+#### Dragonborn
+Fairly uncommon but not concentrated anywhere in particular, though many of them want to explore the outer circles to find connections with their ancestors. Grow up much faster than humans, reaching 10 at 3 and 18 at 15. Live to 80 or so.
+#### Gnomes
+Gnomes have been responsible for a lot of the early innovations in glittertech, partly due to the fact that gnome ships were some of the first to discover glitter. Above average component of mechanics and tinkerers, with a liking for ships and space generally. Live a little longer than dwarves at 400 years or so.
+#### Halflings
+As widespread as humans, with no particular leanings professionally or culturally, though they have a reputation for amenability. Live a little longer than humans at 125 years or so.
+#### Tieflings
+Similar to halflings, they are widespread but have no particular leanings. More common than dragonborn but less than halflings, roughly on par with gnomes. Live about as long as humans (as they used to be human). Their tails make them very good at zero-g.
+#### Orcs
+Lifespan similar to humans.
+
+### 'Exotic'
+
+#### Aasimar
+Live up to 150 years or so.
+
+#### Goliath
+Lifespan similar to humans.
+
+
+
+
+## Other Stuff
+So I really like the concept of sentient celestial bodies a la aeons or the nine. I'll maybe have them be denizens of the outer circles, known only to the stargazers.
+
+On the subject of the outer circles, they need to be properly wild. Inhabited by all manner of strange and magical creatures. At least, there need to be space whales, space dragons. Other ideas incude space jellyfish of enormous proportions.
+# Plot
+Hook: After ~100 years, the black sphere has started to expand. 
+
+The black sphere expands ~~when people die in it~~, with people with a better connection to the weave make it expand more. Note to self - make the actual rate of expansion extremely nebulous and hard to find out for practical reasons. After the blacksphere 'ate' the core it ran into the first gulf (the one between the core and the mid-circles) and stopped. But now someone's evidently figured out how to get people in it, and they're dying inside it, and now it's growing. As for who's doing this and why, questions for future max.
+Update to this - it's not people dying inside the sphere which fuels it, instead the sphere actively sucks the magic out of anyone inside it, resulting in their eventual death and corruption into space zombies.
+
+Idea 2: you need to crash celestial bodies of a certain size or larger into the blacksphere, everyone on it gets absorbed (what that actually means tbc). Anything with enough gravity works (see idea 3) and while everyone on the body survives, they die extremely quickly to the corruption of the blacksphere.
+
+How about this: The people doing the planet-crashing are a cult of personality formed around someone who claims to be either some bigwig from the federation or the something emperor. or whatever. They attract people with the claim that everyone's just fine inside the blacksphere and that 'they' are hiding that fact from you to prevent everyone from leaving to the supposedly prosperous core. This narrative of course gets exaggerated and then this cult synthesises the belief that they in fact need to orchestrate the expansion of the blacksphere. Of course none of the frontline bozos know that it's ~~death which fuels the blacksphere~~ and that crashing a planet into it is, in fact, a bad idea. Idea 2.5: The bigwig is the disgraced son of the something emperor at the time of the collapse, and was exiled just before the collapse.
+
+Idea 3: The blacksphere is some form of solidified spacetime, meaning that only large gravitational bodies (or forces) can influence it, which manifests as the sphere bending out of shape the closer a gravitational body gets to it, with the planet eventually getting sucked into a whirlpool formed when the sphere reacts to its gravity. This can happen with anything roughly the size of ceres upwards, and large asteroid settlements have big enough artificial generators to have an impact as well.
+## Act I
+The game starts with the party in the employ of Captain Matthew Langley Jacobson, of the Storm Chaser. They get sent to some backwater asteroid base/mining outpost for mercwork which is subsequently crashed into the black sphere and they have to try and escape, and then (presumably) find out why this happend and who did it. 
+
+While they're on the asteroid base they run into the villain, the old world bigwig (name tbc) giving a speech convincing the miners to join his cause and cross the blacksphere to prosperity and unlimited wealth and blah blah. Perhaps this happens as they're on their way back from clearing out some of the more hazardous areas of enemies (idea: they are corrupted beings, products of being so near the blacksphere). Then some big explosion happens and the asteroid starts falling towards the blacksphere. The bigwig claims it's his doing and encourages everyone to ride it out with him. The PCs have to then get off asap, running into some extra corrupted on the way. They along with some other ships make it off but a lot of people still fall into the sphere, and the PCs get to watch what happens when an asteroid falls into the blacksphere.
+
+The real weirdness is that after they get back and head off on their next assignment, some junk sidequest bs, the bigwig turns up there as well, even though the PCs are quite sure he was on the asteroid which crashed into the blacksphere. Maybe they get called in while on some routine cargohauling to help evac another, larger civilian settlement that's headed towards the blacksphere now that it's expanding again. Surprise surprise, bigwig is there - and he's not helping. Corrupted show up and suddenly everything goes extremely south extremely quickly.
+
+Try not to have the entire first act be time trialled stuff on asteroids crashing into the blacksphere - that could get boring quick and the fact that time is so nebulous in dnd would really not be in my favour.
+
+Cue trying to track down this bigwig and figure out his deal, as he grows his cult of personality. At some point along the way, this bigwig goes and kills off ol cap'n jake. Would be nice to run this quite freely, just giving the PCs just that overarching objective, planning out a bunch of locations and seeing what they come up with. Perhaps it turns out that the 
+
+Act I ends with the PCs somehow getting thrown inside the blacksphere. 
+## Act II
+So now the PCs are stuck inside the blacksphere. Through some piece of tech or maguffin, they have immunity to the corrupting effects of being inside the blacksphere. It's limitless on the ship but timed when off it. Their ship also may have limited fuel, giving them a hard time limit on the distance they can travel in the blacksphere (bad vibes on this one). See [[#Corruption protection tech]] for how they get around.
+
+Problem: they need to have some goal other than just to get out, as hard as that's going to be. 
+Solution: link the two. The goal is some piece of anti-sphere tech that will help them get out and combat the sphere from the outside. 
+## Act III
+The PCs escape the blacksphere to find out that everthing's kind of gone to shit. First order of business: try and stop a settlement crashing into the blacksphere (i'll have to work out a way of the PCs being able to do this). Make it one they've already visited, perhaps the base they first visit in the very beginning of the campaign.
+
+Second order of business: stop the bigwig. In the time the PCs were in the blacksphere, he's basically taken over the entire midsphere except the jianfeng alliance. The PCs will have to rally their allies and use the macguffin and take down the bigwig in an epic showdown for ultimate destiny. Perhaps they have to find the elven armada for this purpose, necessitating a journey into the outer circles.
+
+
+
