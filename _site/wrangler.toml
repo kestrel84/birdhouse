@@ -1,0 +1,7 @@
+name = "birdhouse"
+# Set this to today's date
+compatibility_date = "2026-02-19"
+
+[assets]
+directory = "./_site"
+html_handling = "auto-trailing-slash"

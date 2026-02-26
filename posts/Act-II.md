@@ -1,3 +1,7 @@
+---
+title: act-ii
+layout: default.liquid
+---
 ### Session VIII (05/02/2026)
 So the PCs have just lifted a blade ship and some mysterious boxes or something from a random asteroid on the edge of the blacksphere. Then they get jumped by five shardships. 
 
