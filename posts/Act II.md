@@ -1,8 +1,3 @@
----
-title: act-ii
-layout: default.liquid
----
-# Act II
 ### Session VIII (05/02/2026)
 So the PCs have just lifted a blade ship and some mysterious boxes or something from a random asteroid on the edge of the blacksphere. Then they get jumped by five shardships. 
 
@@ -46,7 +41,7 @@ Then they head to Yuncheng (festival rock). As per [[Act I-II Planning|the plann
 
 ### Session X (20/02/2026)
 Some stuff from last session: 
-- A stargazer (probably [eivor](/posts/Brainstorming.md#eivor--rose)) knows about pre-cutoff peraxian blacksphere research and the elf involved (it's [[Brainstorming#Shuri Sobek|shuri]] lmao)
+- A stargazer (probably [[Brainstorming#Eivor & Rose|rose]]) knows about pre-cutoff peraxian blacksphere research and the elf involved (it's [[Brainstorming#Shuri Sobek|shuri]] lmao)
 - A different stargazer by the name of Silas is the one who experimented next to the blacksphere and first discovered remnants/remnant crystal (the black stuff).
 - The 'locate person' and 'locate object' on the astro archive have *substantially* larger range - a couple of systems or so.
 
@@ -81,3 +76,20 @@ Notable characters:
 There are a bunch more people in the circus - some musicians, a few more junior wire jockeys, and some administrative/helper flunkeys.
 
 To top it all off, someone from the circus knows where to find carter (three systems coreward, roughly, at the [[Brainstorming#Golantio Observatory|observatory]]).
+
+### Session XI (26/02/2026)
+What happened last session:
+- The PCs did some shopping
+- Like a lot of shopping
+- They snuck into the circus, then met a hadozee helper out front called jimmy. He was pissed about being posted outside during dinner time and told them a bunch of stuff
+- They met up with Thalia and Danny, who are more dating than secretly in love, and found out that the festival master is more unpopular than ever.
+- Some more shopping
+- They met up with Thalia and Danny in a side alley, and agreed to try and fight the remnants. Precisely what's going to happen is not quite decided, and they still have a day to go.
+
+The PCs have two options - fight the remnants in the back lot, where it'll be safer for civvies but there are a bunch of syndicate goons, or fight in the arena, without the extra goons and possibly with danny, but where darius and a bunch of civvies are.
+
+Also, Jackson wants to contact them after the events, tell them to head on to the observatory, after refitting their ship with some proper ordnance. If they contact him beforehand (somehow) he'll also rig up some fireworks around the place to help the PCs out.
+
+Besides that, it's just a big fight, basically.
+
+The place the PCs are going next is the golantio observatory, where they'll find carter and directions to the elven fleet, possibly after some shenanigans or something.

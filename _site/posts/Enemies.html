@@ -1,0 +1,415 @@
+<h3>General Features</h3>
+<p>All remnants can be controlled by a person of sufficient power using a specialised spell (details coming soon.)</p>
+<h3>Low tier</h3>
+<ul>
+<li>Melee (Remnant)
+<ul>
+<li>Think goblin or bandit</li>
+</ul>
+</li>
+<li>Ranged (Remnant)
+<ul>
+<li>Think goblin or bandit but with a bow</li>
+</ul>
+</li>
+<li>Mortar
+<ul>
+<li>Shoots every other turn but deals aoe damage bypassing cover</li>
+</ul>
+</li>
+<li>AoE mage
+<ul>
+<li>For low levels, acid splash and shatter should suffice</li>
+</ul>
+</li>
+<li>Potion-thrower (Area denial)
+<ul>
+<li>Throws down acid and fire potions which reduce ac and deal damage respectively</li>
+</ul>
+</li>
+<li>Control mage (?)
+<ul>
+<li>Casts annoying shit like sleep</li>
+</ul>
+</li>
+</ul>
+<h4>Remnant</h4>
+<pre style="background-color:#2b303b;">
+<code><span style="color:#c0c5ce;">name: Remnant
+</span><span style="color:#c0c5ce;">source: me
+</span><span style="color:#c0c5ce;">size: Medium
+</span><span style="color:#c0c5ce;">type: humanoid
+</span><span style="color:#c0c5ce;">//subtype: any race
+</span><span style="color:#c0c5ce;">alignment: chaotic evil
+</span><span style="color:#c0c5ce;">ac: 12
+</span><span style="color:#c0c5ce;">hp: 11
+</span><span style="color:#c0c5ce;">speed: 30 ft.
+</span><span style="color:#c0c5ce;">stats:
+</span><span style="color:#c0c5ce;">  - 11
+</span><span style="color:#c0c5ce;">  - 12
+</span><span style="color:#c0c5ce;">  - 12
+</span><span style="color:#c0c5ce;">  - 10
+</span><span style="color:#c0c5ce;">  - 10
+</span><span style="color:#c0c5ce;">  - 10
+</span><span style="color:#c0c5ce;">damage_vulnerabilities: &quot;&quot;
+</span><span style="color:#c0c5ce;">damage_resistances: &quot;&quot;
+</span><span style="color:#c0c5ce;">damage_immunities: &quot;&quot;
+</span><span style="color:#c0c5ce;">condition_immunities: &quot;&quot;
+</span><span style="color:#c0c5ce;">senses: Passive Perception 10
+</span><span style="color:#c0c5ce;">languages: none
+</span><span style="color:#c0c5ce;">cr: 1/8
+</span><span style="color:#c0c5ce;">bestiary: true
+</span><span style="color:#c0c5ce;">actions:
+</span><span style="color:#c0c5ce;">  - name: Blade Arm
+</span><span style="color:#c0c5ce;">    desc: &quot;Melee Weapon Attack: +3 to hit, reach 5, one target, 1d6 + 1 slashing&quot;
+</span><span style="color:#c0c5ce;">    attack_bonus: 3
+</span><span style="color:#c0c5ce;">    damage_dice: 1d6
+</span><span style="color:#c0c5ce;">    damage_bonus: 1
+</span></code></pre>
+<h4>Remnant Gunner</h4>
+<pre style="background-color:#2b303b;">
+<code><span style="color:#c0c5ce;">name: Remnant Gunner
+</span><span style="color:#c0c5ce;">source: me
+</span><span style="color:#c0c5ce;">size: Medium
+</span><span style="color:#c0c5ce;">type: humanoid
+</span><span style="color:#c0c5ce;">//subtype: any race
+</span><span style="color:#c0c5ce;">alignment: chaotic evil
+</span><span style="color:#c0c5ce;">ac: 13
+</span><span style="color:#c0c5ce;">hp: 10
+</span><span style="color:#c0c5ce;">speed: 30 ft.
+</span><span style="color:#c0c5ce;">stats:
+</span><span style="color:#c0c5ce;">  - 11
+</span><span style="color:#c0c5ce;">  - 12
+</span><span style="color:#c0c5ce;">  - 12
+</span><span style="color:#c0c5ce;">  - 10
+</span><span style="color:#c0c5ce;">  - 10
+</span><span style="color:#c0c5ce;">  - 10
+</span><span style="color:#c0c5ce;">damage_vulnerabilities: &quot;&quot;
+</span><span style="color:#c0c5ce;">damage_resistances: &quot;&quot;
+</span><span style="color:#c0c5ce;">damage_immunities: &quot;&quot;
+</span><span style="color:#c0c5ce;">condition_immunities: &quot;&quot;
+</span><span style="color:#c0c5ce;">senses: Passive Perception 10
+</span><span style="color:#c0c5ce;">languages: none
+</span><span style="color:#c0c5ce;">cr: 1/8
+</span><span style="color:#c0c5ce;">bestiary: true
+</span><span style="color:#c0c5ce;">actions:
+</span><span style="color:#c0c5ce;">  - name: Crystal Shot
+</span><span style="color:#c0c5ce;">    desc: &quot;Ranged Attack: +3 to hit, range 80/320, one target, 1d8 + 1 piercing&quot;
+</span><span style="color:#c0c5ce;">    attack_bonus: 3
+</span><span style="color:#c0c5ce;">    damage_dice: 1d8
+</span><span style="color:#c0c5ce;">    damage_bonus: 1
+</span><span style="color:#c0c5ce;">
+</span></code></pre>
+<h4>Remnant Bomber</h4>
+<pre style="background-color:#2b303b;">
+<code><span style="color:#c0c5ce;">name: Remnant Bomber
+</span><span style="color:#c0c5ce;">source: me
+</span><span style="color:#c0c5ce;">size: Medium
+</span><span style="color:#c0c5ce;">type: humanoid
+</span><span style="color:#c0c5ce;">//subtype: any race
+</span><span style="color:#c0c5ce;">alignment: chaotic evil
+</span><span style="color:#c0c5ce;">ac: 14
+</span><span style="color:#c0c5ce;">hp: 15
+</span><span style="color:#c0c5ce;">speed: 30 ft.
+</span><span style="color:#c0c5ce;">stats:
+</span><span style="color:#c0c5ce;">  - 11
+</span><span style="color:#c0c5ce;">  - 12
+</span><span style="color:#c0c5ce;">  - 12
+</span><span style="color:#c0c5ce;">  - 10
+</span><span style="color:#c0c5ce;">  - 10
+</span><span style="color:#c0c5ce;">  - 10
+</span><span style="color:#c0c5ce;">damage_vulnerabilities: &quot;&quot;
+</span><span style="color:#c0c5ce;">damage_resistances: &quot;&quot;
+</span><span style="color:#c0c5ce;">damage_immunities: &quot;&quot;
+</span><span style="color:#c0c5ce;">condition_immunities: &quot;&quot;
+</span><span style="color:#c0c5ce;">senses: Passive Perception 10
+</span><span style="color:#c0c5ce;">languages: none
+</span><span style="color:#c0c5ce;">cr: 1/4
+</span><span style="color:#c0c5ce;">bestiary: true
+</span><span style="color:#c0c5ce;">actions:
+</span><span style="color:#c0c5ce;">  - name: Phase Strike
+</span><span style="color:#c0c5ce;">    desc: &quot;Ranged Attack: +3 to hit, range 40/160 (goes through cover and walls), one target, 1d8 + 1 force&quot;
+</span><span style="color:#c0c5ce;">    attack_bonus: 3
+</span><span style="color:#c0c5ce;">    damage_dice: 1d8
+</span><span style="color:#c0c5ce;">    damage_bonus: 1
+</span><span style="color:#c0c5ce;">  - name: Phase Bomb
+</span><span style="color:#c0c5ce;">    desc: &quot;cast range 30 (goes through cover and walls), explosion range 10. DC 12 DEX, 2d6 force, half on save. 4/Combat&quot;
+</span><span style="color:#c0c5ce;">    attack_bonus: 0
+</span><span style="color:#c0c5ce;">    damage_dice: 1d8
+</span></code></pre>
+<p><strong>ELITES</strong></p>
+<h4>Remnant Alpha</h4>
+<pre style="background-color:#2b303b;">
+<code><span style="color:#c0c5ce;">name: Remnant Alpha
+</span><span style="color:#c0c5ce;">source: me
+</span><span style="color:#c0c5ce;">size: Medium
+</span><span style="color:#c0c5ce;">type: humanoid
+</span><span style="color:#c0c5ce;">//subtype: any race
+</span><span style="color:#c0c5ce;">alignment: chaotic evil
+</span><span style="color:#c0c5ce;">ac: 15
+</span><span style="color:#c0c5ce;">hp: 65
+</span><span style="color:#c0c5ce;">hit_dice: 10d8 + 20
+</span><span style="color:#c0c5ce;">speed: 30 ft.
+</span><span style="color:#c0c5ce;">stats:
+</span><span style="color:#c0c5ce;">  - 15
+</span><span style="color:#c0c5ce;">  - 16
+</span><span style="color:#c0c5ce;">  - 14
+</span><span style="color:#c0c5ce;">  - 14
+</span><span style="color:#c0c5ce;">  - 11
+</span><span style="color:#c0c5ce;">  - 14
+</span><span style="color:#c0c5ce;">saves:
+</span><span style="color:#c0c5ce;">  - strength: 4
+</span><span style="color:#c0c5ce;">  - dexterity: 5
+</span><span style="color:#c0c5ce;">  - wisdom: 2
+</span><span style="color:#c0c5ce;">skillsaves:
+</span><span style="color:#c0c5ce;">  - athletics: 4
+</span><span style="color:#c0c5ce;">  - deception: 4
+</span><span style="color:#c0c5ce;">damage_vulnerabilities: &quot;&quot;
+</span><span style="color:#c0c5ce;">damage_resistances: &quot;&quot;
+</span><span style="color:#c0c5ce;">damage_immunities: &quot;&quot;
+</span><span style="color:#c0c5ce;">condition_immunities: &quot;&quot;
+</span><span style="color:#c0c5ce;">senses: Passive Perception 10
+</span><span style="color:#c0c5ce;">languages: none
+</span><span style="color:#c0c5ce;">cr: &quot;2&quot;
+</span><span style="color:#c0c5ce;">bestiary: true
+</span><span style="color:#c0c5ce;">actions:
+</span><span style="color:#c0c5ce;">  - name: Multiattack
+</span><span style="color:#c0c5ce;">    desc: &quot;Two blade arm attacks and one knee attack&quot;
+</span><span style="color:#c0c5ce;">    attack_bonus: 0
+</span><span style="color:#c0c5ce;">  - name: Blade Arm
+</span><span style="color:#c0c5ce;">    desc: &quot;Melee Weapon Attack: +5 to hit, reach 5, one target, 1d6 + 3 slashing&quot;
+</span><span style="color:#c0c5ce;">    attack_bonus: 5
+</span><span style="color:#c0c5ce;">    damage_dice: 1d6
+</span><span style="color:#c0c5ce;">    damage_bonus: 3
+</span><span style="color:#c0c5ce;">  - name: Knee
+</span><span style="color:#c0c5ce;">    desc: &quot;Melee Weapon Attack: +5 to hit, reach 5, one target, 1d4 + 3 bludgeoning&quot;
+</span><span style="color:#c0c5ce;">    attack_bonus: 5
+</span><span style="color:#c0c5ce;">    damage_dice: 1d4
+</span><span style="color:#c0c5ce;">    damage_bonus: 3
+</span><span style="color:#c0c5ce;">  - name: Shard Throw
+</span><span style="color:#c0c5ce;">    desc: &quot;The alpha throws an explosive crystal shard. throw range 60, explosion 10. DC 12 DEX save, 3d4 piercing damage, half on success.&quot;
+</span><span style="color:#c0c5ce;">    attack_bonus: 0
+</span><span style="color:#c0c5ce;">    damage_dice: 3d4
+</span><span style="color:#c0c5ce;">reactions:
+</span><span style="color:#c0c5ce;">  - name: Parry
+</span><span style="color:#c0c5ce;">    desc: +2 AC vs one melee attack that would hit.
+</span><span style="color:#c0c5ce;">    attack_bonus: 0
+</span></code></pre>
+<h4>Remnant Shapechanger</h4>
+<pre style="background-color:#2b303b;">
+<code><span style="color:#c0c5ce;">name: Remnant Shapechanger
+</span><span style="color:#c0c5ce;">source: me
+</span><span style="color:#c0c5ce;">size: Medium
+</span><span style="color:#c0c5ce;">type: monstrosity
+</span><span style="color:#c0c5ce;">subtype: shapechanger
+</span><span style="color:#c0c5ce;">alignment: unaligned
+</span><span style="color:#c0c5ce;">ac: 14
+</span><span style="color:#c0c5ce;">hp: 52
+</span><span style="color:#c0c5ce;">hit_dice: 8d8 + 16
+</span><span style="color:#c0c5ce;">speed: 30 ft.
+</span><span style="color:#c0c5ce;">stats:
+</span><span style="color:#c0c5ce;">  - 11
+</span><span style="color:#c0c5ce;">  - 18
+</span><span style="color:#c0c5ce;">  - 14
+</span><span style="color:#c0c5ce;">  - 11
+</span><span style="color:#c0c5ce;">  - 12
+</span><span style="color:#c0c5ce;">  - 14
+</span><span style="color:#c0c5ce;">skillsaves:
+</span><span style="color:#c0c5ce;">  - deception: 6
+</span><span style="color:#c0c5ce;">  - insight: 3
+</span><span style="color:#c0c5ce;">damage_vulnerabilities: &quot;&quot;
+</span><span style="color:#c0c5ce;">damage_resistances: &quot;&quot;
+</span><span style="color:#c0c5ce;">damage_immunities: charmed
+</span><span style="color:#c0c5ce;">condition_immunities: &quot;&quot;
+</span><span style="color:#c0c5ce;">senses: darkvision 60 ft., passive Perception 11
+</span><span style="color:#c0c5ce;">languages: Common
+</span><span style="color:#c0c5ce;">cr: &quot;3&quot;
+</span><span style="color:#c0c5ce;">bestiary: true
+</span><span style="color:#c0c5ce;">traits:
+</span><span style="color:#c0c5ce;">  - name: Shapechanger
+</span><span style="color:#c0c5ce;">    desc: The remnant can use its action to polymorph into a Small or Medium humanoid it has seen, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn&#39;t transformed. It reverts to its true form if it dies.
+</span><span style="color:#c0c5ce;">    attack_bonus: 0
+</span><span style="color:#c0c5ce;">  - name: Ambusher
+</span><span style="color:#c0c5ce;">    desc: Advantage on attack rolls against any creature it has surprised.
+</span><span style="color:#c0c5ce;">    attack_bonus: 0
+</span><span style="color:#c0c5ce;">  - name: Surprise Attack
+</span><span style="color:#c0c5ce;">    desc: If the doppelganger surprises a creature and hits it with an attack during the first round of combat, the target takes 3d6 extra damage
+</span><span style="color:#c0c5ce;">    attack_bonus: 0
+</span><span style="color:#c0c5ce;">    damage_dice: 3d6
+</span><span style="color:#c0c5ce;">actions:
+</span><span style="color:#c0c5ce;">  - name: Multiattack
+</span><span style="color:#c0c5ce;">    desc: The doppelganger makes two melee attacks.
+</span><span style="color:#c0c5ce;">    attack_bonus: 0
+</span><span style="color:#c0c5ce;">  - name: Slam
+</span><span style="color:#c0c5ce;">    desc: &quot;Melee Weapon Attack: +6 to hit, reach 5, one target, 1d6 + 4 bludgeoning&quot;
+</span><span style="color:#c0c5ce;">    attack_bonus: 6
+</span><span style="color:#c0c5ce;">    damage_dice: 1d6
+</span><span style="color:#c0c5ce;">    damage_bonus: 4
+</span><span style="color:#c0c5ce;">  - name: Read Thoughts
+</span><span style="color:#c0c5ce;">    desc: The doppelganger magically reads the surface thoughts of one creature within 60 ft. of it. The effect can penetrate barriers, but 3 ft. of wood or dirt, 2 ft. of stone, 2 inches of metal, or a thin sheet of lead blocks it. While the target is in range, the doppelganger can continue reading its thoughts, as long as the doppelganger&#39;s concentration isn&#39;t broken (as if concentrating on a spell). While reading the target&#39;s mind, the doppelganger has advantage on Wisdom (Insight) and Charisma (Deception, Intimidation, and Persuasion) checks against the target.
+</span><span style="color:#c0c5ce;">    attack_bonus: 0
+</span><span style="color:#c0c5ce;">
+</span></code></pre>
+<ul>
+<li>Melee
+<ul>
+<li>Bandit captain</li>
+</ul>
+</li>
+<li>Gimmick
+<ul>
+<li>Shapechanger</li>
+</ul>
+</li>
+</ul>
+<h3>Mid tier</h3>
+<p>These should be able to give a level five party a run for their money. Also, more gimmicky enemies, the bomber got really good feedback. More like that.</p>
+<p>Plus, don't be afraid to have obvious gimmicks and different-looking enemies; it helps a lot with differentiation.</p>
+<p>Concepts:</p>
+<ul>
+<li><strong>Charger</strong> - charges up to a big super duper attack. It has three palm-sized glowing crystals  on both its front and back, which start glowing to indicate charge level. three moves:
+<ul>
+<li>whack, possibly also ranged whack of some kind (gain one charge)</li>
+<li>charge (gain two charges)</li>
+<li>super hit (costs three charges)</li>
+</ul>
+</li>
+<li><strong>Grappler</strong> - always attempts to grapple a player and then deal massive damage (piledriver ass attack). Has four arms.</li>
+<li><strong>Warper</strong> - plants bombs on the players, which they have to unstick. Has a teleport move, invis (?) and a weak melee attack. very rougeish, has a cape of mist.</li>
+<li><strong>Spiker</strong> - uses wall of thorns, flavoured and balanced appropriately (crystal spikes?). Attempts to wall off the players and then throw spikes at them from behind it. Spiky boi in general, damages you on it.</li>
+<li><strong>Flier</strong> - buffs the others and flies around like a bastard (but no healing). undecided between ATK/DMG straight +number or a buff to the number of dice rolled. Has long strings of crystals, which wave round as it flies, and attatch to whichever unit it buffs.</li>
+<li><strong>Artillerist</strong> - has a bigger version (three square radius at least) of the delayed blast bombs, as well as instant fiery bombs.</li>
+<li><strong>Caster</strong> - has four crystals floating in an arc above its head (?). One is blue lightning (lightning bolt), one is orange fire (fireball), one is swirling air (<a href="https://dnd5e.wikidot.com/spell:pulse-wave">pulse wave</a>), and one is pink swirls (hypnotic pattern). It can cast any of the spells in its crystals once, causing the crystal to go out, and it can spend an action recharging any spent crystal.</li>
+<li><strong>Summoner</strong> - summons a golem with a pike (so 10ft opportunity attack range lmaoo) and a large HP pool, but not much damage. Kill the summoner to kill the golem. The summoner's a short ass mfer with a flag and can also buff the summon after summoning it.</li>
+<li><strong>Illusionist</strong> - summons four additional copies of itself (all of which have real attacks). The real one is signified by a correct wisdom check, the DC of which goes down as the players repeat it.</li>
+<li><strong>Debilitator</strong> - a debuffer of some kind who inflicts various debuffs on the party. Be careful with this one, could get extremely frustrating. Can inflict poison, stun, and frightened at least, plus some other less annoying ones. Chucks tiny crystals which can be removed by yourself (if the condition allows it) and by other players for an action, removing the debuff.</li>
+</ul>
+<p>Stats subject to change lmao</p>
+<h4>Charger</h4>
+<pre style="background-color:#2b303b;">
+<code><span style="color:#c0c5ce;">name: Remnant Charger
+</span><span style="color:#c0c5ce;">source: me
+</span><span style="color:#c0c5ce;">size: Medium
+</span><span style="color:#c0c5ce;">type: monstrosity
+</span><span style="color:#c0c5ce;">alignment: unaligned
+</span><span style="color:#c0c5ce;">ac: 17
+</span><span style="color:#c0c5ce;">hp: 90
+</span><span style="color:#c0c5ce;">speed: 35 ft.
+</span><span style="color:#c0c5ce;">stats:
+</span><span style="color:#c0c5ce;">  - 18
+</span><span style="color:#c0c5ce;">  - 12
+</span><span style="color:#c0c5ce;">  - 16
+</span><span style="color:#c0c5ce;">  - 11
+</span><span style="color:#c0c5ce;">  - 12
+</span><span style="color:#c0c5ce;">  - 11
+</span><span style="color:#c0c5ce;">saves:
+</span><span style="color:#c0c5ce;">  - strength: 8
+</span><span style="color:#c0c5ce;">  - constitution: 6
+</span><span style="color:#c0c5ce;">skillsaves:
+</span><span style="color:#c0c5ce;">damage_vulnerabilities: &quot;&quot;
+</span><span style="color:#c0c5ce;">damage_resistances: &quot;&quot;
+</span><span style="color:#c0c5ce;">damage_immunities: &quot;&quot;
+</span><span style="color:#c0c5ce;">senses: darkvision 60 ft., passive Perception 11
+</span><span style="color:#c0c5ce;">languages: None
+</span><span style="color:#c0c5ce;">cr: 5
+</span><span style="color:#c0c5ce;">bestiary: true
+</span><span style="color:#c0c5ce;">traits:
+</span><span style="color:#c0c5ce;">  - name: Charging
+</span><span style="color:#c0c5ce;">    desc: The Charger has three crystals, which can light up. It lights up one on a melee attack and two when it spends its turn charging. With three charges, it can enlarge its greatsword and spin around, attacking a large area.
+</span><span style="color:#c0c5ce;">actions:
+</span><span style="color:#c0c5ce;">  - name: Swipe
+</span><span style="color:#c0c5ce;">    desc: &quot;Melee Weapon Attack: +6 to hit, reach 5, one target, 2d6 + 4 slashing&quot;
+</span><span style="color:#c0c5ce;">    attack_bonus: 6
+</span><span style="color:#c0c5ce;">    damage_dice: 2d6
+</span><span style="color:#c0c5ce;">    damage_bonus: 4
+</span><span style="color:#c0c5ce;">  - name: Charge
+</span><span style="color:#c0c5ce;">    desc: &quot;The Charger focuses, gaining two charges.&quot;
+</span><span style="color:#c0c5ce;">  - name: &quot;Charged Spin&quot;
+</span><span style="color:#c0c5ce;">    desc: &quot;Requires three charges. The Charger channels the energy stored in its crystals into its greatsword, enlarging it. It then spins around in a massive attack. Everyone within fifteen feet of the Charger makes a DC 17 DEX save and takes 5d12 slashing damage on a failed save, half as much on a success.&quot;
+</span><span style="color:#c0c5ce;">    attack_bonus: 0
+</span><span style="color:#c0c5ce;">    damage_dice: 5d12
+</span></code></pre>
+<h4>Grappler</h4>
+<pre style="background-color:#2b303b;">
+<code><span style="color:#c0c5ce;">name: Remnant Grappler
+</span><span style="color:#c0c5ce;">source: me
+</span><span style="color:#c0c5ce;">size: Large
+</span><span style="color:#c0c5ce;">type: monstrosity
+</span><span style="color:#c0c5ce;">alignment: unaligned
+</span><span style="color:#c0c5ce;">ac: 15
+</span><span style="color:#c0c5ce;">hp: 120
+</span><span style="color:#c0c5ce;">speed: 40 ft.
+</span><span style="color:#c0c5ce;">stats:
+</span><span style="color:#c0c5ce;">  - 22
+</span><span style="color:#c0c5ce;">  - 12
+</span><span style="color:#c0c5ce;">  - 13
+</span><span style="color:#c0c5ce;">  - 11
+</span><span style="color:#c0c5ce;">  - 12
+</span><span style="color:#c0c5ce;">  - 11
+</span><span style="color:#c0c5ce;">saves:
+</span><span style="color:#c0c5ce;">  - strength: 8
+</span><span style="color:#c0c5ce;">  - constitution: 6
+</span><span style="color:#c0c5ce;">skillsaves:
+</span><span style="color:#c0c5ce;">  - athletics: 10
+</span><span style="color:#c0c5ce;">damage_vulnerabilities: &quot;&quot;
+</span><span style="color:#c0c5ce;">damage_resistances: &quot;&quot;
+</span><span style="color:#c0c5ce;">damage_immunities: &quot;&quot;
+</span><span style="color:#c0c5ce;">senses: darkvision 60 ft., passive Perception 11
+</span><span style="color:#c0c5ce;">languages: None
+</span><span style="color:#c0c5ce;">cr: 5
+</span><span style="color:#c0c5ce;">bestiary: true
+</span><span style="color:#c0c5ce;">actions:
+</span><span style="color:#c0c5ce;">  - name: Slam
+</span><span style="color:#c0c5ce;">    desc: &quot;Melee Weapon Attack: +6 to hit, reach 5, one target, 2d6 + 4 bludgeoning&quot;
+</span><span style="color:#c0c5ce;">    attack_bonus: 6
+</span><span style="color:#c0c5ce;">    damage_dice: 2d6
+</span><span style="color:#c0c5ce;">    damage_bonus: 4
+</span><span style="color:#c0c5ce;">  - name: &quot;Grapple&quot;
+</span><span style="color:#c0c5ce;">    desc: &quot;The Grappler attempts to grapple a humanoid. It makes a contested strength (Athletics) check on a creature of large or smaller. If it succeeds, the creature is grappled.&quot;
+</span><span style="color:#c0c5ce;">    attack_bonus: 0
+</span><span style="color:#c0c5ce;">  - name: &quot;Piledriver&quot;
+</span><span style="color:#c0c5ce;">    desc: &quot;The grappler takes a creature it has grappled, then leaps up and slams it into the ground. Makes a melee weapon attack: +15 to hit, grappled target, 10d10 blugeoning damage&quot;
+</span><span style="color:#c0c5ce;">    damaage_dice: 10d10
+</span></code></pre>
+<h4>Caster</h4>
+<pre style="background-color:#2b303b;">
+<code><span style="color:#c0c5ce;">name: Remnant Caster
+</span><span style="color:#c0c5ce;">source: me
+</span><span style="color:#c0c5ce;">size: Medium
+</span><span style="color:#c0c5ce;">type: monstrosity
+</span><span style="color:#c0c5ce;">alignment: unaligned
+</span><span style="color:#c0c5ce;">ac: 15
+</span><span style="color:#c0c5ce;">hp: 70
+</span><span style="color:#c0c5ce;">speed: 25 ft.
+</span><span style="color:#c0c5ce;">stats:
+</span><span style="color:#c0c5ce;">  - 10
+</span><span style="color:#c0c5ce;">  - 14
+</span><span style="color:#c0c5ce;">  - 13
+</span><span style="color:#c0c5ce;">  - 20
+</span><span style="color:#c0c5ce;">  - 18
+</span><span style="color:#c0c5ce;">  - 11
+</span><span style="color:#c0c5ce;">saves:
+</span><span style="color:#c0c5ce;">  - constitution: 6
+</span><span style="color:#c0c5ce;">  - wisdom: 8
+</span><span style="color:#c0c5ce;">  - intelligence: 10
+</span><span style="color:#c0c5ce;">damage_vulnerabilities: &quot;&quot;
+</span><span style="color:#c0c5ce;">damage_resistances: &quot;&quot;
+</span><span style="color:#c0c5ce;">damage_immunities: &quot;&quot;
+</span><span style="color:#c0c5ce;">senses: darkvision 60 ft., passive Perception 11
+</span><span style="color:#c0c5ce;">languages: None
+</span><span style="color:#c0c5ce;">cr: 5
+</span><span style="color:#c0c5ce;">bestiary: true
+</span><span style="color:#c0c5ce;">traits:
+</span><span style="color:#c0c5ce;">  - name: Power Crystals
+</span><span style="color:#c0c5ce;">    desc: The Caster has four crystals floating in an arc above its head. Each one is a different color - blue lightning, orange fire, pink swirls, and white air. When it casts the spell for that crystal (lightning bolt, fireball, hypnotic pattern, and pulse wave respectively) then the crystal goes dark.
+</span><span style="color:#c0c5ce;">actions:
+</span><span style="color:#c0c5ce;">  - name: Cast
+</span><span style="color:#c0c5ce;">    desc: &quot;Casts the spell from a lit-up crystal. Reference: LB: self, 100x5 line, DC17 DEX, 8d6 lightning. FB: 150 range, 20 radius, DC17 DEX, 8d6 fire. HP: 120 range, 30 cube, DC17 WIS, charmed for 1 min. end on damage or help actionPW: self, 30 cone, DC 17, 6d6 force + pull/push 15ft&quot;   
+</span><span style="color:#c0c5ce;">    attack_bonus: 0
+</span><span style="color:#c0c5ce;">  - name: &quot;Recharge&quot;
+</span><span style="color:#c0c5ce;">    desc: &quot;The caster spends its turn recharging a spent crystal.&quot;
+</span><span style="color:#c0c5ce;">    attack_bonus: 0
+</span><span style="color:#c0c5ce;">  - name: &quot;Piledriver&quot;
+</span><span style="color:#c0c5ce;">    desc: &quot;The grappler takes a creature it has grappled, then leaps up and slams it into the ground. Makes a melee weapon attack: +15 to hit, grappled target, 10d10 blugeoning damage&quot;
+</span><span style="color:#c0c5ce;">    damage_dice: 10d10
+</span></code></pre>
