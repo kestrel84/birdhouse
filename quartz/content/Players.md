@@ -1,0 +1,32 @@
+- Ben (Eeta Mason)
+	- Oortling ancestral spirits barbarian
+		- see [this doc]([https://docs.google.com/document/d/1JVK931CjqMlQTDBVO6ptju0mU1h-ExSgvBxTL6Rx0FU/edit?usp=sharing](https://docs.google.com/document/d/1JVK931CjqMlQTDBVO6ptju0mU1h-ExSgvBxTL6Rx0FU/edit?usp=sharing "https://docs.google.com/document/d/1JVK931CjqMlQTDBVO6ptju0mU1h-ExSgvBxTL6Rx0FU/edit?usp=sharing")) for lots of detes, along with the wildjammer rulebook for context on oortlings generally
+		- spindly, large overalls and large goggles
+		- mech looks like a kiln with limbs attatched to it
+		- ran into an elderly oortling in the parking swarm offering a spirit golem (a juiced spirit warrior) in exchange for winning a fight and becoming his apprentice
+	- 13 PP
+- Ben 2 (Graves Stone)
+	- Earth genasi warlock with multiclassing shenanigans
+		- Granite-colored, yellow eyes
+		- has amnesia and was found at some point by ol capn jack
+		- was probably up to some unsavoury shit or something in a past life
+	- 10 PP
+- Nick (CB) 
+	- Harengon (rabbit) fighter
+		- Shortish (4.5ft)
+		- Chain mail over somewhat worn clothes 
+		- lots of scars, big chunk out of one ear
+		- Big lance
+		- necklace with detatchable dice
+	- 12 PP
+- Stan (Azeglio)
+	- Aasimar artillerist artificer 
+		- White hair, pale skin, wearing smart casual armour, prosthetic arm
+		- See [here](https://docs.google.com/document/d/1L_ZVALXKNn6Nm3gZA91mkfYj14wEVo10NGSe3c27-Ko/edit?usp=sharing](https://docs.google.com/document/d/1L_ZVALXKNn6Nm3gZA91mkfYj14wEVo10NGSe3c27-Ko/edit?usp=sharing "https://docs.google.com/document/d/1L_ZVALXKNn6Nm3gZA91mkfYj14wEVo10NGSe3c27-Ko/edit?usp=sharing")) for detes (tldr was part of a travelling circus which got its lunch eaten by a YGMC buyout)
+	- 12 PP
+- Alex? (Olem)
+	- Hobgoblin gunslinger (see discord)
+		- Proper space cowboy mfer with a hat and spurs 
+		- mostly red-skinned big short guy
+		- mustached
+	- 16 PP

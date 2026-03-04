@@ -3,5 +3,5 @@ name = "birdhouse"
 compatibility_date = "2026-02-19"
 
 [assets]
-directory = "./_site"
+directory = "./quartz/public"
 html_handling = "auto-trailing-slash"
