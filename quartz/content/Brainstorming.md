@@ -188,7 +188,7 @@ A Xichil, and the current head of the taikon syndicate. He's been living for a v
 #### Eivor & Rose
 The nominal leader of the stargazers, a powerful, enigmatic and ancient druid with a companion space dragon, Rose. Spends most of their time exploring the outer circles with Rose. Occasionally stops by stargazer coves to share stories.
 
-Note: due to my dumb ass mis-remembering it, the names of the dragon and the druid have been swapped 
+Note: due to my dumb ass mis-remembering it, the names of the dragon and the druid have been swapped. Rose is now the druid and eivor the dragon.
 ## History
 Major events in the past of this universe affecting large populations.
 

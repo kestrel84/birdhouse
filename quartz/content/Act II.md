@@ -112,5 +112,13 @@ So we've still got a half a fight to do, so finish that off.
 		- So the storm chaser is going to be the key to finding it, somehow;
 		- But I want to make it more interesting than just 'slot in the macguffin' or whatever
 		- Idea: the academy outfits the ship with a magic amplifier so that it can amplify the engine's weave imprint and locate similar patterns
-		- This requires running the engine at max, then exactly timing flying in the path of the telescope/finder/thingy to locate the fleet
+		- This requires running the engine at max (since none of the PCs can produce the magic required), then exactly timing flying in the path of the telescope/finder/thingy to locate the fleet
 		- But some shardships show up last-second as Darius tracks them down
+
+
+### Session XIII (13/03/2026)
+Last session was basically all finishing the fight lmao. After that, there was some consideration for what's next for the circus. Also the storm chaser now has two turrreted 12-pound long guns as well as a 36-pounder front-only cannon.
+
+As for what's next for the big top, they're packing up and moving out, heading away from the blacksphere. Inverio gets unceremoniously demoted to tailchasing syndicate mfers in dive bars.
+
+See above for loosely what's the plan for this session. Basically, head to golantio academy, meet up with professor Blackstaff and his wife/teaching assistant Alice Blackstaff. She's also a halfling, but a [storm herald barbarian](https://dnd5e.wikidot.com/barbarian:storm-herald). Blunt, to-the-point and extremely protective of basically everyone. 'get behind me' type person.
