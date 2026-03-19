@@ -22,20 +22,7 @@ The starlight apparitions [(p59 in the menagerie)](https://online.anyflip.com/nx
 The basic information on the steles is as follows:
 - The blacksphere was created by someone, somewhere
 - The remnants are linked to it, but the stele lists effects on small quantities of glitter right next to the sphere; not the kind of stuff that's happening now.
-- There was some kind of illithid presence in the mid-circles before the majority of people got there. The peraxian empire spent a lot of time fighting illithid ships when it first tried to colonise the system a few hundred years back (time unclear from the steles, but longer than living memory for any race).
-
-
-### Session IX (12/02/2026)
-The PCs successfully escaped the shardships and arrived at the stargazer's astral isle. They talked to ember (who just backstory dumped lmao, avoid that in the future) who directed them down into the basement. they went there and discovered:
-- starlight apparitions
-- the illithids were involved with this island somehow
-- glitter turns into crystal near the blacksphere? or something?
-
-Now they're down there and need to find out more without getting killed, posessed or washed away. They'll encounter first one starlight apparition, then depending on how it goes, three more. 
-
-Roughly, they find out the info as above, plus that the blacksphere channels weave through glitter and humans and some creatures, corrupting it to black crystal of some kind. how darius controls it is still a mystery.
-
-After they get back, ember'll help with decoding their [astromancy archive](https://dnd5e.wikidot.com/wondrous-items:astromancy-archive), where they find out it can also cast locate creature and locate object. She also gives them a pole-vault spear (+1,  can move to any side of enemy after attacking, +10ft jump height/length)
+- There was some kind of illithid presence in the mid-circles before the majority of people got there. The peraxian empire spent a lot of time fighting illithid ships when it first tried to colonise the system a few hundred years back (time unclear from the steles, but longer than living [astromancy archive](https://dnd5e.wikidot.com/wondrous-items:astromancy-archive), where they find out it can also cast locate creature and locate object. She also gives them a pole-vault spear (+1,  can move to any side of enemy after attacking, +10ft jump height/length)
 
 Then they head to Yuncheng (festival rock). As per [[Act I-II Planning|the planning doc]], they run into Az's old crew in the back of the tavern, then get roped in to rescue the circus. Perhaps they have some remnants chained up in the back which the PCs need to take out in order to save the show.
 
@@ -122,3 +109,90 @@ Last session was basically all finishing the fight lmao. After that, there was s
 As for what's next for the big top, they're packing up and moving out, heading away from the blacksphere. Inverio gets unceremoniously demoted to tailchasing syndicate mfers in dive bars.
 
 See above for loosely what's the plan for this session. Basically, head to golantio academy, meet up with professor Blackstaff and his wife/teaching assistant Alice Blackstaff. She's also a halfling, but a [storm herald barbarian](https://dnd5e.wikidot.com/barbarian:storm-herald). Blunt, to-the-point and extremely protective of basically everyone. 'get behind me' type person.
+
+### Session XIV (19/03/2026)
+At the end of the last session, The PCs have just been jumped by Daruis showing up on a big ship with three other slightly smaller ships as backup. The big ship is used by Daruis as a magic amplifier; the three smaller ships are:
+- A minelayer - does what you think it does.
+- A missile boat - shoots a missile which arms, and on its next turn, shoots out in a line, damaging the first thing it hits in that line.
+- A turtle ship - beefy but low damage and slow.
+
+
+Precise ship stat blocks:
+#### Turtle Ship
+AC 18
+HP  144
+BP 22
+SPD 2000ft (4sq), 90 deg.
+Features:
+- Advantage on saving throws against mega spells
+- When the ship is reduced to 0 hitpoints, it is instead reduced to one. Once activated, the ship must be fully repaired for it to be used again.
+- Once per turn, the ship can reduce the damage it takes by 1d10.
+Attacks:
+- Three reduced-damage cannonades (+7/2d6), one each on the front and sides, fixed position.
+May also have more health; it is the tank, after all.
+
+#### Minelayer
+Base stats are that of a galleon, with reduced HP.
+AC 14
+HP 100
+BP 22
+SPD 3000 (6sq), 45 deg.
+Features:
+- Minelayer - As an action, place a glitter bomb in an adjacent square. This bomb explodes when an enemy gets within 1000ft (2sq), damaging every ship within 1000ft of it for 6d8 fire, or half on a DC15 DEX save.
+Attacks:
+- Single front-mounted cannonade, +7/2d6
+
+#### Missile Boat
+Base stats are that of a galleon, with reduced HP.
+AC 14
+HP 100
+BP 22
+SPD 3000 (6sq), 45 deg.
+Features:
+- Missiles - As an action, deploy a missile. It may travel to an adjacent square. It then arms, choosing a destination square. At the start of your next turn, it fires towards the selected destination square. It hits the first thing in the line, whereupon it explodes, dealing 3d10 fire damage.
+Attacks:
+- Single front-mounted cannonade, +7/2d6
+
+#### Big Boy
+Base stats of a hammership:
+AC 16
+HP 196
+BP 30
+SPD 2000 (4sq), 90 deg.
+Features:
+- The exact same gimmick as the caster guy, but *mega*.
+Attacks:
+- None - casts spells.
+
+
+For when they like 6v1 darius, he just casts a shitload of high-level spells - the classic four from the caster but level seven, as well as:
+- [finger of death](https://dnd5e.wikidot.com/spell:finger-of-death)
+- [power word pain](https://dnd5e.wikidot.com/spell:power-word-pain)
+- [prismatic spray](https://dnd5e.wikidot.com/spell:prismatic-spray)
+Scores:
+- STR +3
+- DEX +6
+- CON +2
+- INT +11
+- WIS +8
+- CHA +16
+Legendary resistance 3/turn
+
+Some attacks for Kira, Ember, Reggie and Alice:
+- Kira:
+  - Arm cannon: +5/1d10
+- Ember:
+  - Spirit bow summon (like capn jack lmao): +7/1d8
+- Reggie:
+  - Six-shooter: +9, roll d6 for possible effects:
+    - Force - 4d6 damage to target
+    - Fire - 2d6 impact fire damage plus DC19 DEX in 5ft radius for 2d6 more damage (half on save)
+    - Lightning - as fire, but as lightning damage, and instead of a 5ft radius, it's a line between the target and reggie
+    - Poison - 3d6 damage, DC19 for poisoned condition
+    - Radiant - 3d6 damage, 10ft circle around target: DC19 WIS or blinded for 1min, save at beginning of turn
+    - Cold - 3d6 damage and half movemen
+- Alice:
+  - Basic: +7/2d8
+  - Advanced: Sea. When this effect is activated, you can choose one other creature you can see in your aura. The target must make a Dexterity saving throw. The target takes 1d6 lightning damage on a failed save, or half as much damage on a successful one. The damage increases when you reach certain levels in this class, increasing to 2d6 at 10th level, 3d6 at 15th level, and 4d6 at 20th level. Sea. When you hit a creature in your aura with an attack, you can use your reaction to force that creature to make a Strength saving throw. On a failed save, the creature is knocked prone, as if struck by a wave.
+    
+  

@@ -1,4 +1,4 @@
-# Places to borrow ideas from
+b# Places to borrow ideas from
 - Spelljammer, obviously
 - HSR for the large-scale organisations, structure of the universe type deal, weird shit, and perhaps the concept of aeons
 - Arcane's version of hextech for the magitech vibes

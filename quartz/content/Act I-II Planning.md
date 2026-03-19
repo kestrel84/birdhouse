@@ -1,3 +1,4 @@
+# Post-christmas ideas
 So, what to do next.
 
 Current state of the PCs:
@@ -28,3 +29,12 @@ General philosophy changes:
 - Focus on interesting NPCs much more than interesting places. Exploration and visual storytelling both are *much* trickier in D&D than in videogames, so stick to its strengths - combat and NPC interactions, and interesting puzzle/heist type situations with explicit and telegraphed parameters and goals. Just going to an interesting place isn't enough, you need something interesting to do there, and normally someone interesting to talk to.
 	- So, I need a whole bunch more NPCs!
 - More interesting enemies! see [[Enemies#Mid tier]] for the new batch. Also need some interesting ships to fight.
+
+
+# Session XV and forward ideas (written on 15/03/2026)
+Current state, after the upcoming big ship battle vs Darius:
+- The PCs have beaten off Darius, with some help from Reggie (a high level wizard) and Alice (a high level barbarian). Hopefully he'll have boarded their ship and they'll have had a proper face off. 
+- The PCs know where to find the elves, but it's a long way away in the outer circles. They need some ship upgrades to get there.
+  - As for what happens when they find the elves - who knows, right now.
+- Darius is up to some Act III-ass shenanigans after his defeat - they need to be obvious and urgent, get the PCs moving.
+- 
