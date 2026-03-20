@@ -9,3 +9,4 @@ important links:
 - [[Fable of Sylvia]]
 - [[Players]]
 - [[Ship Combat Rules]]
+- [[Wildjammer - More Adventures in Space - 1.0 - Reduced Size.pdf|wildjammer]]
