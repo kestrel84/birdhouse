@@ -11,7 +11,7 @@ He's in Geronimo and the west generally in search of answers and a journey to La
 ## Rick Lockjaw (Trish)
 The sheriff of Geronimo.
 
-Was at one point a normal human, working as the sheriff. He got ambushed and killed by bandits while protecting a shipment of something or other. He then appeared before the Arbiter, who offered him his body in exchange for getting to drive one day a month. His phylactery is a vial of something; this also powers his gun.
+Was at one point a normal human, working as the sheriff. He got ambushed and killed by bandits while protecting a shipment of something or other. He then appeared before the Arbiter, who offered him his body in exchange for getting to drive one day a month when the moon's full. His phylactery is a vial of something; this also powers his gun.
 
 He's a gunslinger/fighter type.
 
