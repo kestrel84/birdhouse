@@ -196,3 +196,32 @@ Some attacks for Kira, Ember, Reggie and Alice:
   - Advanced: Sea. When this effect is activated, you can choose one other creature you can see in your aura. The target must make a Dexterity saving throw. The target takes 1d6 lightning damage on a failed save, or half as much damage on a successful one. The damage increases when you reach certain levels in this class, increasing to 2d6 at 10th level, 3d6 at 15th level, and 4d6 at 20th level. Sea. When you hit a creature in your aura with an attack, you can use your reaction to force that creature to make a Strength saving throw. On a failed save, the creature is knocked prone, as if struck by a wave.
     
   
+
+### Session XV (26/03/2026)
+The PCs are headed to the parking swarm in order to fix up the storm chaser, and also obtain a spirit golem (spirit warrior variant tuned for oortlings). They've got to sneak past the lighthouses somehow, either taking a hit on cash to go around or try and sneak through.
+
+Things they need to do:
+- Repair the ship
+- Upgrade the armour for atmo-breaking
+- Obtain a spirit warrior
+- Look for a fix for graves.
+
+Things they see in the parking swarm:
+- A couple of wanted posters stuck up with their names on them (no images) and no bounty listed; an amateurish job. They can even track down the kid who did it, it tracks back to the syndicate, who do genuinely hate them, though not _quite_ enough to put a sizeable bounty on their head just yet.
+- Loads more alliance ships. at least ten are buzzing around, including one almost the size of the parking swarm. Proper force projection.
+  - This is because of escalating violence between the darius/remnant-backed syndicate and the alliance navy. Also means healers are hard to find and harder to engage.
+- Everyone's more tense, and some people are moving out cause of the encroaching blacksphere. There's also rumours around that it's close to swallowing up Xiaojin, the closest of the nine alliance planets to the sphere's edge.
+
+After repairing and obtaining the spirit warrior, for which Eeta'll have to duel again, but this time it's against a (relative) normie and so an easy win. Idea is to get them on their way pretty quickly.
+
+So - the elven fleet: where is is? who's there? what does it look like? what's going to happen there?
+
+In order:
+1. A good couple thousand glitter straight into the outer circles. They need to use the armillary sphere in order to not get lost.
+2. At the very least, Hermia is still around, and Rose and Eivor are also there. In fact, Rose is there for the same reason as the PCs: to ask for help. 
+3. It's on a planet (though the PCs know this beforehand). Said planet is very earthlike - The elves left the kilometers-long shardship in orbit and the PCs recognise it as such immedieately. They're mostly concentrated in a single city planetside, _New Remuria_. It's not got many normal buildings on it, with most people instead living in the converted remains of elven capital ships suspended in kilometer-tall redwood trees.
+4. The PCs get jumpscared by a dragon on arrival, who reveals himself to be eivor. He informs them that Rose is planetside talking to Hermia, as they are old friends, and that he hopes their ship is outfitted for atmo. After they head down to the port of New Remuria, they are greeted at the dock by hermia and rose, who congratulate them. She also offers to heal graves.
+
+So Hermia's still bitter at Shuri leaving, and she was their best black hole/remnant/shardstuff researcher. She'll let them have access to the elves' libraries, but they're massive and the PCs don't have much hope of getting anything out of them. 
+
+The eventual solution is installing a _massive_ weave conduit in the storm chaser, or perhaps turning the 36lb long gun into one somehow, then diving into the sphere alongside Xiaojin.
