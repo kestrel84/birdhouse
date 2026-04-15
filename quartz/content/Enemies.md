@@ -267,134 +267,66 @@ Concepts:
 Stats subject to change lmao
 
 #### Charger
-```statblock
-name: Remnant Charger
-source: me
-size: Medium
-type: monstrosity
-alignment: unaligned
-ac: 17
-hp: 90
-speed: 35 ft.
-stats:
-  - 18
-  - 12
-  - 16
-  - 11
-  - 12
-  - 11
-saves:
-  - strength: 8
-  - constitution: 6
-skillsaves:
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-senses: darkvision 60 ft., passive Perception 11
-languages: None
-cr: 5
-bestiary: true
-traits:
-  - name: Charging
-    desc: The Charger has three crystals, which can light up. It lights up one on a melee attack and two when it spends its turn charging. With three charges, it can enlarge its greatsword and spin around, attacking a large area.
-actions:
-  - name: Swipe
-    desc: "Melee Weapon Attack: +6 to hit, reach 5, one target, 2d6 + 4 slashing"
-    attack_bonus: 6
-    damage_dice: 2d6
-    damage_bonus: 4
-  - name: Charge
-    desc: "The Charger focuses, gaining two charges."
-  - name: "Charged Spin"
-    desc: "Requires three charges. The Charger channels the energy stored in its crystals into its greatsword, enlarging it. It then spins around in a massive attack. Everyone within fifteen feet of the Charger makes a DC 17 DEX save and takes 5d12 slashing damage on a failed save, half as much on a success."
-    attack_bonus: 0
-    damage_dice: 5d12
-```
-
+Summary:
+- AC 17; HP 90; SPD 35
+- Swipe: +6/2d6+5, +1 charge
+- Charge: +2 charges
+- Spin: 15ft radius, DEX 17/5d12, -3 charges
 
 #### Grappler
-```statblock
-name: Remnant Grappler
-source: me
-size: Large
-type: monstrosity
-alignment: unaligned
-ac: 15
-hp: 120
-speed: 40 ft.
-stats:
-  - 22
-  - 12
-  - 13
-  - 11
-  - 12
-  - 11
-saves:
-  - strength: 8
-  - constitution: 6
-skillsaves:
-  - athletics: 10
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-senses: darkvision 60 ft., passive Perception 11
-languages: None
-cr: 5
-bestiary: true
-actions:
-  - name: Slam
-    desc: "Melee Weapon Attack: +6 to hit, reach 5, one target, 2d6 + 4 bludgeoning"
-    attack_bonus: 6
-    damage_dice: 2d6
-    damage_bonus: 4
-  - name: "Grapple"
-    desc: "The Grappler attempts to grapple a humanoid. It makes a contested strength (Athletics) check on a creature of large or smaller. If it succeeds, the creature is grappled."
-    attack_bonus: 0
-  - name: "Piledriver"
-    desc: "The grappler takes a creature it has grappled, then leaps up and slams it into the ground. Makes a melee weapon attack: +15 to hit, grappled target, 10d10 blugeoning damage"
-    damaage_dice: 10d10
-```
-
+- AC 15, HP 120; SPD 40
+- Slam: +6/2d6+4
+- Grapple: Athletics contest (+15). note: grappled creatures are moved with the grappler.
+- Piledriver: +15/10d10, grappled creatures only
+- Throw: Throws grappled creature 60ft away and deals 10d6 damage on impact. DEX 17/half damage and distance.
 
 #### Caster
-```statblock
-name: Remnant Caster
-source: me
-size: Medium
-type: monstrosity
-alignment: unaligned
-ac: 15
-hp: 70
-speed: 25 ft.
-stats:
-  - 10
-  - 14
-  - 13
-  - 20
-  - 18
-  - 11
-saves:
-  - constitution: 6
-  - wisdom: 8
-  - intelligence: 10
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: ""
-senses: darkvision 60 ft., passive Perception 11
-languages: None
-cr: 5
-bestiary: true
-traits:
-  - name: Power Crystals
-    desc: The Caster has four crystals floating in an arc above its head. Each one is a different color - blue lightning, orange fire, pink swirls, and white air. When it casts the spell for that crystal (lightning bolt, fireball, hypnotic pattern, and pulse wave respectively) then the crystal goes dark.
-actions:
-  - name: Cast
-    desc: "Casts the spell from a lit-up crystal. Reference: LB: self, 100x5 line, DC17 DEX, 8d6 lightning. FB: 150 range, 20 radius, DC17 DEX, 8d6 fire. HP: 120 range, 30 cube, DC17 WIS, charmed for 1 min. end on damage or help actionPW: self, 30 cone, DC 17, 6d6 force + pull/push 15ft"   
-    attack_bonus: 0
-  - name: "Recharge"
-    desc: "The caster spends its turn recharging a spent crystal."
-    attack_bonus: 0
-  - name: "Piledriver"
-    desc: "The grappler takes a creature it has grappled, then leaps up and slams it into the ground. Makes a melee weapon attack: +15 to hit, grappled target, 10d10 blugeoning damage"
-    damage_dice: 10d10
-```
+- AC 15; HP 70; SPD 25
+- 4 crystals: pulsewave, fireball, lightning bolt, and hypnotic pattern
+- Pulsewave: 30ft cone, 6d6+15ft away or towards caster. DEX 17/half damage and no distance.
+- Fireball: 150ft range, 20ft sphere, DEX 17/8d6
+- Lightning bolt: 100x5ft line, DEX 17/8d6
+- Hypnotic pattern: 120ft range, 30ft cube, WIS 17/Charmed 1 min. Repeat at end of turn.
+- Recharge: recharges all spent crystals
+- Crystals can be targeted (AC 20); any damage permenantly destroys them
+
+### Warper
+- AC 17; HP 90; SPD 15
+- Teleport: 100ft range, 1/every other turn, bonus action
+- Plant bomb: plants a bomb on a player which detonates at the beginning of this enemy's next turn. Players can make a sleight of hand check to remove and throw the bomb, as an action.
+- Bomb: 5ft radius, DEX 17/3d10
+
+### Spiker
+- AC 19; HP 70; SPD 30
+- Spike Wall: chucks up a wall of thorns but spikier - 5ft long but as long and tall as I like. On appearance or ending turn in the wall: DEX 17/7d8. Moving through is double difficult terrain. 3/4 cover to entities on the other side.
+- Ranged attack: ignores the wall, +6/2d6+5
+
+### Flier
+- AC 19; HP 110; SPD 40 (flying)
+- Protect: attatches strings to three other enemies, buffing their AC by 5. Lasts until dispelled.
+- Buff: gives an enemy advantage on their next attack.
+
+### Polearm
+- AC 17: HP 90; SPD 50
+- Strike: +6/2d6+5, push 5ft. (can make two per turn)
+- Impale: +3/5d6+10, target is grappled and restrained.
+- Throw: Impaled creatures only. +3/5d6+10, target is thrown 30ft back.
+
+### Artillerist
+- AC 17; HP 70; SPD 30
+- Bomb: Mortars a bomb over any obstacles if in free air, or LoS if not. Detonates at the beginning of their next turn - 15ft radius; DEX 17/5d10
+- Firebomb: Mortars/shoots a bomb which detonates immediately, spreading fire in a 30ft radius. Creatures in the fire take 1d4 immediately, then if they start their turn in the fire, they take 1d6, then 1d8, etc, up to 1d20.
+
+### Kraken
+- AC 19; HP whatever; SPD 0
+- 8 tentacles, each with 40 HP and 19 AC. All must be killed within one turn to kill the kraken.
+- Each one has a gimmick:
+  - One hits you (+7/3d10)
+  - One grapples you (+10)
+  - One shoots you (+7/3d10)
+  - One stuns you (CON 17)
+  - One poisons you (CON 17, 2d6/turn, save at end of turn)
+  - One reduces AC and attack bonus (-5 AC, -5 attack)
+  - One makes you vulnerable to damage (all damage)
+  - One tries to hypnotic pattern you (WIS 19)
+- Tentacles regrow with 10HP
