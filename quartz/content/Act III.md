@@ -11,6 +11,14 @@ Wha Happen:
 - The raid begins with securing the chosen docking location (notably the ship is in zero gravity).
 - To be continued!
 
-### Session XVII
+### Session XVII (23/04/2026)
+- The PCs need to find the magical material to refit the ship with; it's inside the engine core of the ship (along with a shitload of glitter - like 'enormous treasure vault pile of gold' amounts of glitter).
+- The engine core is an enormous and horrendous mass of pipework. It's also got a corrupted kraken inside it. The PCs need to fight the kraken inside the pipework. Gameplay-wise, it's still zero-g, but the close proximity to the core has made it such that there are fluctuating gravity fields around the place which'll slam you up or down if you're not careful.
+- After that, retreival of the macgiffinite (it's the very center of the engine - the reason it's such a good conduit is because it needs to channel the entire ship's energy).
+- Then, they're after Xiaojin, probably. Hermia's eager for them to depart as soon as they're upgraded. The upgrade also improves the storm chaser's speed as the engineers gave the ship something of a tune-up in the process.
+- At Xiaojin, there's a massive shardship fleet in orbit, scrapping with the Alliance navy around the moon. 
+- As soon as he notices the players, Darius fast-forwards the blacksphere a bit, immediately causing Xiaojin and everything in remotely close proximity to get swallowed.
+- What _precisely_ happens here is a little unclear - Kira compares it to getting a bit too deep in the psycrystal and almost getting lost, Ember compares it to almost getting sucked into an Astral whirlpool.
+- Darius reveals his true identity, smash cut to the final bossfight.
 
 ### Session XVIII
