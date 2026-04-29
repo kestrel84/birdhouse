@@ -46,13 +46,52 @@ Now this boss fight is gonna need some _real_ sauce in order for it to live up t
   - Perhaps reuse the zero-g mechanics; they're pretty fun. Force engagement by (for instance) having four switches which all need to be thrown in different corners of the arena.
     - they can't really be destructible crystals or anything else you can just snipe; this would provide no challenge
     - or perhaps destructible crystals which have a shield around them, crown of sorrow crystal style
-    -
+    - this, once per phase; all crystals must be destroyed within two turns to disable invulnerability
   - If the fight needs to be in zero g, then perhaps make it in the wreckage of Darius's ship?
     - perhaps single-use pieces of terrain? i.e., you can stop/push off once only.
     - actual gravity fluctuations
+  - Highly telegraphed but wide area attacks;
+    - some shapes: cone, line, circle
+      - he plants three shapes, each with a different effect, and players must navigate to the spaces between them
+      - some effects: damage (fire, lightning, thunder, physical), stun, DoT, damage vuln
+    - some CC (but not too much, no more than once every other turn and preferably not on the same player twice in a row)
+    - mix of physical and magical damage attacks
+    - first phase is 'normal' Daruis, i.e. the shit-talking archmage, and phase two is a ridiculously fast remnant beast with lots of close-range attacks.
+      - in this phase, he can plant bombs, whack, grab (ranged), push, pull, detonate bombs, roar (deafen + attack/ac debuff)
+      - he's got the charger mechanic (five crystals, once charge per action, beeg super attack on five charges)
+    - can summon illusory copies which dissipate upon being hit (either phase)
+- three actions per turn
 - A health bar would be cool
 - Darius slowly becomes more and more corrupted over the course of the fight
   - perhaps phase two is 'remnant darius' and he's more or less completely consumed?
+
+Final plans for the fight:
+
+- Location: inside the wreckage of Darius's captial ship in orbit of Xiaojin. In zero gravity.
+  - There are loads of wreckage fragments around the arena to use as solid objects, but they dissapear when used. If more are needed, I can make the fluctuating gravity bring more in.
+  - There are gravity fluctuations - small areas with enough gravity to push you in a certain direction. There are four, and they move at the beginning of each round.
+- Darius himself:
+  - Always:
+    - Three actions per turn
+    - At the beginning of each phase, summons four crystals, one in each corner of the arena. He is invlunerable until all are destroyed; they must be destroyed within two turns of each other or they will be resummoned. Each crystal has a 5ft radius protective sphere which blocks any and all ranged attacks and spells.
+  - Phase one - Archmage:
+    - Places three areas each turn, and at the start of his next turn, their stated effect will happen in the given areas.
+    - Areas can be cones, lines, circles, or squares.
+    - Areas can do damage of any elemental type (5d10, DEX 18/half), inflict stun (save CON 18), or inflict vulnearbility to all damage.
+    - Normal stats: 300HP (subject to change) 20AC, 30 SPD (fly)
+  - Phase two - Remnant:
+    - Moves _much_ faster; SPD increased to the entire arena. Otherwise regenerates back to full HP and retains the same AC.
+    - The remnant form has five crystals going up the spine. One lights up for each action taken; when all five are lit up, the beeg super attack can be used.
+    - Does three actions from the following:
+      - Sword slice: +9; 5d10
+      - Grab (ranged): DEX 18 or grappled and restrained. (you get impaled with a kusarigama)
+      - Swing (grappled PCs only): swings around and throws a grappled player; thrown players are moving at 60ft/turn and on collision both entities take 3d10 bludgeoning. (you get swung around on a kusarigama)
+      - Push: +9; 3d10 + 20ft back. (you get smacked with a quarterstaff)
+      - Pull: +9; 3d10 + 20ft towards. 20ft range. (you get impaled with a javelin on a string and dragged back)
+      - Plant bomb: sticks a bomb on player. no save or attack; player may use action to remove bomb and throw it; DC 20 sleight of hand.
+      - Detonate bomb: detonates a stuck bomb; 10ft radius, 5d10 fire, DEX 18/half.
+      - Roar: 30? ft radius, CON 18 or half speed, -5 attack and AC
+      - beeg super attack: costs all three actions. goes unlimited blade works on your asses. 15d10 piercing, DEX 18/half.
 
 How the PCs fight:
 
