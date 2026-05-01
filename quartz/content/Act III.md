@@ -24,7 +24,7 @@ Wha Happen:
 - What _precisely_ happens here is a little unclear - Kira compares it to getting a bit too deep in the psycrystal and almost getting lost, Ember compares it to almost getting sucked into an Astral whirlpool.
 - Darius reveals his true identity, smash cut to the final bossfight.
 
-### Session XVIII
+### Session XVIII (01/05/2026)
 
 So what went down last session is basically as planned up to extracting the macguffinite from the core and getting it down to New Sylvia; then we stopped on Hermia taking the party to an armoury/vault in order to gear up for the next session, basically. Also level nine.
 
