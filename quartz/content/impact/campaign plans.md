@@ -1,4 +1,4 @@
-# Plans for the upcoming impact campaign
+# Campaign plans
 
 Already established plot elements:
 
@@ -60,7 +60,7 @@ The players have to get to the location and defeat him.
 
 Sessions:
 
-All three are to be one giant setpiece; the Arbiter's holed up at the highest point of the city, a giant, impossible, dracula's castle type skyscraper.
+All three are to be one giant setpiece; the Arbiter's holed up at the highest point of the city, a giant, impossible, dracula's castle type skyscraper. It's called the spire of stars.
 
 1. Find a way into the skyscraper.
 2. Climb it.
@@ -71,3 +71,23 @@ All three are to be one giant setpiece; the Arbiter's holed up at the highest po
 Details about the city itself.
 
 It's _extremely_ magical, much much more than normal, and has a bunch of spelljammer-ass exotic races around. A lot of stuff just floats, everything is lit with magic, and anything else I can think of.
+It moves around the planes and the universe every few months or so, but it's drawn to places with people.
+
+Percival Laravin himself found the city around 100 years ago, the last time it was on the planet. Since he disappeared (into the city), all subsequent expeditions have failed, and most have died in the desert.
+His crew (an order of holy chivalric knights of Lathandar, the god of Dawn) vanished with him, except Gaheris of Twynegate, who stayed behind to guard the relic which allowed them entrance.
+They joined the police; the humans have died or at least retired. Longer-life members of the party are still kicking though.
+
+- Some boring details:
+- The total area of the city is pretty small, running to around the size of Bath including suburbs.
+- The city is mostly run by a council of high elders in the Spire of Stars, the highest structure in Laravin's Hope. They have a council chair, a member nominated as a representative by the rest of the council.
+- There exists a vast network of tunnels, passages, catacombs and caves underneath the city; this is where most of the unsavoury business happens.
+- The police are under the control of the council and are pervasive in the city proper. They enforce a very clean, polite and well-mannered society. 
+- Buildings tend to be thin and rather unreasonably tall - a regular tavern might have drinking tables running up three or four floors on a tiny footprint and more rooms above.
+This is enabled by use of magical elevators which just float you up or down. 
+  - Any good tavern will also have a few floors down to the undercity.
+
+## NPCs
+
+- **Cedric Laskar**: A tiefling knight of Lathandar, following in Sir Laravin's footsteps. Meets the party right at the beginning (he's on Gavin's ship), but is kinda in his own story, it just overlaps with the party's occasionally.
+He does help them out getting past the city defences. He's a cleric who dual-wields maces and has a holy symbol engraved on his chestplate.
+- **Percival Laravin**: The first person from this planet to discover the city which bears his name. A human and also a knight of Lathandar, He and his crew mounted one of the first sandships a hundred years ago to sail into the unknown.  
