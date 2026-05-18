@@ -19,6 +19,7 @@ After that, they need to get past the lock incongruously overlaid on the big obv
 They are each in a trial room, and each have a different trial.
 
 - Trial of wit: A puzzle or riddle of some kind.
+  - This is going to be something like the following: The players are given a ring of twelve tuning forks (matching the circle of fifths) and a bunch of chord names ($C$, $B\flat m$, $Eb^13$ )
 - Trial of might: A fight.
 - Trial of agility: Light six torches in twelve seconds in a room with no floor, but strung up with a ton of ropes.
 
@@ -26,8 +27,15 @@ The corpse of Gaheris is puppeted by the Arbiter when they try and get the ball.
 There are three statues of long-dead gods in the room, which can be knocked over; there are also quicksand puddles around the place to get stuck in.
 
 ### Enemies
+For the trial of might, three level 5 enemies:
+- x2 [living statues](https://2e.aonprd.com/Monsters.aspx?ID=3997) 
+- x1 [divine warden of nethys](https://2e.aonprd.com/Monsters.aspx?ID=1121)
+  - This is reflavoured as a divine warden of Lathander, summoned by Laravin when he was here. It wears armour strikingly similar to Cedric's.
+- The fight takes place in a more or less boring arena, but with a large (7-hex) pillar in the middle.
 
-
+For the final fight, a level seven enemy and two level 3 enemies.
+- Gaheris himself is a bound knight of Lathandar, willingly serving into undeath. His stat block is that of a [Deathless Heirophant](https://2e.aonprd.com/Monsters.aspx?ID=1854).
+- The two lackeys are summoned by Gaheris on his first turn; they are long-dead servants of Lathandar, drawn back into temporary service. They are [Deathless Acolytes](https://2e.aonprd.com/Monsters.aspx?ID=1853).
 
 ## Session 2
 

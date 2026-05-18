@@ -27,7 +27,7 @@ The act finished with them arriving in the city itself.
 
 Sessions:
 
-1. The PCs arrive at the city and, along with some new NPCs, discover that it's impossible to get near. They begin the search for a solution. Use [days when my mother was there](https://www.youtube.com/watch?v=3hSqfxbVjHc&list=RD3hSqfxbVjHc&start_radio=1) as soundrack. 
+1. The PCs arrive at the city and, along with some (actually just one) new NPCs, discover that it's impossible to get near. They begin the search for a solution. Use [days when my mother was there](https://www.youtube.com/watch?v=3hSqfxbVjHc&list=RD3hSqfxbVjHc&start_radio=1) as soundrack. 
 (at present, a magical macguffin in some ancient tomb somewhere, subject to change). Has combat in the back half.
 2. After some more combat, the PCs retrieve the macguffin and get to the edge of the city, which has a number of more normal magical and physical defences (traps and the like). They begin to get through them.
 3. The PCs finish traversing the edge of the city and arrive in Laravin's Hope. See [[#Laravin's Hope]].
