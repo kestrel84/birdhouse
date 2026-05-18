@@ -19,7 +19,7 @@ After that, they need to get past the lock incongruously overlaid on the big obv
 They are each in a trial room, and each have a different trial.
 
 - Trial of wit: A puzzle or riddle of some kind.
-  - This is going to be something like the following: The players are given a ring of twelve tuning forks (matching the circle of fifths) and a bunch of chord names ($C$, $B\flat m$, $Eb^13$ )
+  - This is going to be something like the following: The players are given a ring of twelve tuning forks (matching the circle of fifths) and a bunch of chord names ($C$, $B\flat m$, $Eb^{ 13 }$ )
 - Trial of might: A fight.
 - Trial of agility: Light six torches in twelve seconds in a room with no floor, but strung up with a ton of ropes.
 
