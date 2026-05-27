@@ -40,3 +40,11 @@ For the final fight, a level seven enemy and two level 3 enemies.
 ## Session 2
 
 Depending on what gets done in session one, this could start with finishing off the temple section and obtaining the crystal ball. 
+
+... Yeah this one'll be finishing off. The players just wrapped up a mimic fight, with the remaining two rooms being the combat trial and the puzzle.
+
+The last chest in the mimic room contains a [emerald grasshopper](https://2e.aonprd.com/Equipment.aspx?ID=2972) and 200 gold.
+
+After they defeat Gaheris and pick up the crystal ball, it kind of sucks them in and they end up back on the sands, next to the oasis, where Cedric is waiting.
+
+The idea for the walls of Laravin's Hope is a kind of 

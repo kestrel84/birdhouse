@@ -32,6 +32,9 @@ Sessions:
 2. After some more combat, the PCs retrieve the macguffin and get to the edge of the city, which has a number of more normal magical and physical defences (traps and the like). They begin to get through them.
 3. The PCs finish traversing the edge of the city and arrive in Laravin's Hope. See [[#Laravin's Hope]].
 
+As for why the city has a bunch of traps around it - could be a few reasons; the most obvious and simple is that some places the city goes to are much more hostile than a desert on earth.
+It even has a standing militia for precisely this reason. Could also be that the city's rulers just don't want more people in; that might be why they don't deacitvate the traps when on a less deadly planet.
+
 
 ### Act 2
 
@@ -72,6 +75,12 @@ Details about the city itself.
 
 It's _extremely_ magical, much much more than normal, and has a bunch of spelljammer-ass exotic races around. A lot of stuff just floats, everything is lit with magic, and anything else I can think of.
 It moves around the planes and the universe every few months or so, but it's drawn to places with people.
+
+The general aesthetic is mining/geode steampunk - the walls are made of black rock but have a bunch of vents, pipes, drains, and stuff sticking out the side, and a bunch of trapped caves running once they get into it.
+
+The top of the city, the bit visible from the desert, is the geode half; the rest of the city is kind of a basin made of the same black rock as the walls, and the shining towers kind of come up to where the center of the basin would be if it was a sphere.
+Buildings are plate metal, with lots of pipes, steam, and magical fire.
+
 
 Percival Laravin himself found the city around 100 years ago, the last time it was on the planet. Since he disappeared (into the city), all subsequent expeditions have failed, and most have died in the desert.
 His crew (an order of holy chivalric knights of Lathandar, the god of Dawn) vanished with him, except Gaheris of Twynegate, who stayed behind to guard the relic which allowed them entrance.
