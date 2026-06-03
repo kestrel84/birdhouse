@@ -48,3 +48,34 @@ The last chest in the mimic room contains a [emerald grasshopper](https://2e.aon
 After they defeat Gaheris and pick up the crystal ball, it kind of sucks them in and they end up back on the sands, next to the oasis, where Cedric is waiting.
 
 The idea for the walls of Laravin's Hope is a kind of 
+
+## Session 3
+
+... steampunk-crystal aesthetic; think lots of rock, lots of glowy crystal, lots of metal, and lots of pipework, cogs, steam, gizmos, and the like.
+The walls themselves are kind of like huge rock crater walls - it almost looks like the city crashlanded there.
+
+Now the PCs have the crystal orb, looking through it at Laravin's hope 'demists' it. They feel a change in the air, some kind of magic being dispelled, and they just need to continue on to Laravin's Hope.
+Upon reaching the walls, they look as described above. Some options they have:
+
+- Climb the walls. May seem attractive given their new grashopper toy, but it's a *really* tall wall (at least 1000ft, though it does seem to become flatter higher up).
+They face high winds (penalty to all acrobatics), and a number of traps on the wall itself, along with it just being baseline eerily smooth. Traps include:
+  - [treacherous scree](https://2e.aonprd.com/Hazards.aspx?ID=36) (only on the upper levels, may cause players to fall down the wall)
+  - [steam vents](https://2e.aonprd.com/Hazards.aspx?ID=95) - pipes sticking out of the walls blasting steam occasionally. Can also blow the PCs off the wall.
+  - a [severe hailstorm](https://2e.aonprd.com/WeatherHazards.aspx?ID=5) also blasts the players very soon afterwards. It's magically induced, and can be disabled.
+  - Once at the top, they then need to get down - though this is fairly easily achieved with the grasshopper and some ingenuity. It's another 1000ft drop though, and they're standing on an overhang, so climbing down isn't really an option.
+- If the PCs elect to take the other option, they can enter through a number of openings in the wall - jammed vent fans, smaller pipes, cracks and crevices, and perhaps even a secret door. If they find one, it's a free pass into the city.
+  - this results in them traversing the inside of the walls. This is narrow, less than five foot tunnels the whole way, and more than a few traps:
+    - the same steam vent as above
+    - a [shrinking corridor](https://2e.aonprd.com/Hazards.aspx?ID=631) or three
+    - some [scythe blades](https://2e.aonprd.com/Hazards.aspx?ID=480)
+    - definitely a [false step floor](https://2e.aonprd.com/Hazards.aspx?ID=634)
+  - These are more or less laid out in sequence - draw out a map tomorrow
+
+Notes on traps:
+- They can be detected by me rolling a perception check on behalf of each player and seeing if they notice it.
+- They can be disabled by any means appropriate, but usually a thievery [disable a device](https://2e.aonprd.com/Actions.aspx?ID=69) for gizmos and nature or survival for environmental effets.
+
+Once inside the city, Tal and Cedric both get another vision. This time, it's clearer, with the spire of stars falling down, and a half second of the arbiter's face popping up at the end.
+
+I imagine the players will want to go shopping, and they can, more or less. Their outsiderness is remarked upon but it's not *that* unusual, they're just new.
+They notice the large amount of guards, all carrying spears, wearing a very wide variety of armour but wearing the same crest on the chest or wherever appropriate.
