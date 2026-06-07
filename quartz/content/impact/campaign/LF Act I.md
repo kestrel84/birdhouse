@@ -79,3 +79,9 @@ Once inside the city, Tal and Cedric both get another vision. This time, it's cl
 
 I imagine the players will want to go shopping, and they can, more or less. Their outsiderness is remarked upon but it's not *that* unusual, they're just new.
 They notice the large amount of guards, all carrying spears, wearing a very wide variety of armour but wearing the same crest on the chest or wherever appropriate.
+
+**Notes from the session**:
+- Some details about the city - see [[campaign-plans#Laravin's Hope|here]] for the appropriate details
+- Cedric is running around desperately trying to find Percival Laravin, with no luck yet. He's dived in far beyond his ability and the PCs eventually run into him trying to 1v1 a powerful demon.
+- The PCs have obtained passage up the first two levels of the city, and as of the end of it, just reunited with Cedric in the undercity.
+- They have also learned of Theodore, a high-ranking guard who may be able to get them up to the higher levels.

@@ -86,7 +86,7 @@ Percival Laravin himself found the city around 100 years ago, the last time it w
 His crew (an order of holy chivalric knights of Lathandar, the god of Dawn) vanished with him, except Gaheris of Twynegate, who stayed behind to guard the relic which allowed them entrance.
 They joined the police; the humans have died or at least retired. Longer-life members of the party are still kicking though.
 
-- Some boring details:
+Some boring details:
 - The total area of the city is pretty small, running to around the size of Bath including suburbs.
 - The city is mostly run by a council of high elders in the Spire of Stars, the highest structure in Laravin's Hope. They have a council chair, a member nominated as a representative by the rest of the council.
 - There exists a vast network of tunnels, passages, catacombs and caves underneath the city; this is where most of the unsavoury business happens.
@@ -94,6 +94,13 @@ They joined the police; the humans have died or at least retired. Longer-life me
 - Buildings tend to be thin and rather unreasonably tall - a regular tavern might have drinking tables running up three or four floors on a tiny footprint and more rooms above.
 This is enabled by use of magical elevators which just float you up or down. 
   - Any good tavern will also have a few floors down to the undercity.
+
+Some details from session III:
+- The city is split into levels, passage between which is controlled by the city guard.
+- The first few levels require little more than a rubber stamp, but the later ones require a more intensive check, an actual rep, etc.
+- The guard runs the bounty program, fighting the encroachment of the hell demons from the undercity.
+- Getting into the undercity via the guard bounty program drops you almost to the bottom, and they'll extract you as well.
+
 
 ## NPCs
 
