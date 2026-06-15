@@ -1,4 +1,4 @@
-# Post-christmas ideas
+## Post-christmas ideas
 So, what to do next.
 
 Current state of the PCs:
@@ -31,7 +31,7 @@ General philosophy changes:
 - More interesting enemies! see [[Enemies#Mid tier]] for the new batch. Also need some interesting ships to fight.
 
 
-# Session XV and forward ideas (written on 15/03/2026)
+## Session XV and forward ideas (written on 15/03/2026)
 Current state, after the upcoming big ship battle vs Darius:
 - The PCs have beaten off Darius, with some help from Reggie (a high level wizard) and Alice (a high level barbarian). Hopefully he'll have boarded their ship and they'll have had a proper face off. 
 - The PCs know where to find the elves, but it's a long way away in the outer circles. They need some ship upgrades to get there.

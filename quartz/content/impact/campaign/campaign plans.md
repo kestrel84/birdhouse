@@ -30,7 +30,7 @@ Sessions:
 1. The PCs arrive at the city and, along with some (actually just one) new NPCs, discover that it's impossible to get near. They begin the search for a solution. Use [days when my mother was there](https://www.youtube.com/watch?v=3hSqfxbVjHc&list=RD3hSqfxbVjHc&start_radio=1) as soundrack. 
 (at present, a magical macguffin in some ancient tomb somewhere, subject to change). Has combat in the back half.
 2. After some more combat, the PCs retrieve the macguffin and get to the edge of the city, which has a number of more normal magical and physical defences (traps and the like). They begin to get through them.
-3. The PCs finish traversing the edge of the city and arrive in Laravin's Hope. See [[#Laravin's Hope]].
+3. The PCs finish traversing the edge of the city and arrive in Laravin's Hope. See [[#Laravin's Hope, aka Tul'Narath|Laravin's Hope]].
 
 As for why the city has a bunch of traps around it - could be a few reasons; the most obvious and simple is that some places the city goes to are much more hostile than a desert on earth.
 It even has a standing militia for precisely this reason. Could also be that the city's rulers just don't want more people in; that might be why they don't deacitvate the traps when on a less deadly planet.
@@ -69,7 +69,7 @@ All three are to be one giant setpiece; the Arbiter's holed up at the highest po
 2. Climb it.
 3. Defeat the Arbiter, for real this time. 
 
-## Laravin's Hope
+## Laravin's Hope, aka Tul'Narath
 
 Details about the city itself.
 
