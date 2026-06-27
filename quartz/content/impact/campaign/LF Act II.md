@@ -69,3 +69,28 @@ As for stats for the new weapons:
   - Sonic: inflicts Deafened.
 - Thal's six pistols duct-taped together: More or less what it sounds like. You can fire the pistols individually, though they are unupgraded duelling pistols, dealing only 1d6 damage.
 You can also elect to fire all six at once, which grants it kickback (-2 to atk unless you have +2 strength or more) and forces a misfire roll, but causes it to now deal 2d20 damage.
+
+## Session 6
+So the PCs have successfully planted the memory crystals, but literally just finished at the end of the session. They also *really* didn't bother with stealth. They know most of the plot, with the sole exception of the precise location of the
+source of the visions.
+
+The precise location of Laravin's grave is in the undercity, in the place closest to hell. It was there that Laravin beat the Arbiter (solo, lmao), but died in the process, falling here, where he was buried. His sword is reclaimed
+mjolnir-style at the beginning of the fight with the Arbiter. Cedric also shows up, having sucessfully traced Laravin to here. He's extremely angry at the Arbiter for 'leading Laravin astray', somewhat justifiably (it was a bit of that, bit of
+desire for power). Ria's there, but she's in the same boat as the PCs, minus the past experience with the Arbiter (she, of course, stole the ring from someone else).
+
+After that, the PCs have a big fight with the Arbiter. He is like three levels too high for them right now (probably level 10 or so) and whups their asses, before Theo shows up and the Arbiter shoves off to the spire.
+Given that the Arbiter fight is likely to be pretty short, run the segment detailed in session 5, where the PCs have to get down to the grave in the first place.
+
+Some more details on the turf war:
+- One faction is in control of the market, and bars the PCs from entering unless they pay an entry fee (pretty steep, say 200 gold). They will presumably decline, and have a few options:
+  - Hook up with the other faction, and take a side entrance before ambushing some higher-ups in an upstairs balcony - two [halfling smugglers](https://2e.aonprd.com/NPCs.aspx?ID=3646) and a [big boss dwarf](https://2e.aonprd.com/NPCs.aspx?ID=3643). They then get free passage.
+  - Sneak round solo. If they do this, a brawl breaks out in the market, and they can join in in the hope of loot or stay sneaking in the sidelines.
+  - Bust in the front, fighting three [hobgoblin battalions](https://2e.aonprd.com/NPCs.aspx?ID=3649) reflavoured as a mob of people. Ria doesn't want to do this, as it involves killing basically everyone. 
+
+
+As for the arbiter himself, he appears as an dude, basically, in an immaculate coat and tails, with a staff. He floats a good foot of the ground, and has the basic stat block of a [coloxus](https://2e.aonprd.com/Monsters.aspx?ID=3363).
+
+The droning wings move is reflavoured as a large floating eye which he summons on the first turn. The basic game plan is summon the eye, summon a couple of giant arthropods, go invisible, and generally fuck around with the PCs.
+He can't die and may deal more damage if the fight goes on too long.
+
+
