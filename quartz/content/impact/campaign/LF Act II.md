@@ -96,3 +96,10 @@ The droning wings move is reflavoured as a large floating eye which he summons o
 He can't die and may deal more damage if the fight goes on too long.
 
 The giant arthropods in question are [ogre spiders](https://2e.aonprd.com/Monsters.aspx?ID=4562).
+
+## Session 7
+The PCs left off just before the fight started so i'll see how the fight goes. See above for the details.
+
+Now after the PCs loose, the Arbiter takes off to the spire of stars. He turns the whole spire and a bunch of glowy magic stuff red,
+and starts charging the entire city in preparation to plane shift. The PCs meet Lancelot, Knight of Laravin after being rescued to the guard HQ. He's an elf, very businesslike.
+With the plans for the spire in hand, they have to make it up each of the three floating sections. End it in the planning phase, probably, if the session gets there.
