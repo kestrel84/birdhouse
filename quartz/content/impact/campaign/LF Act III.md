@@ -32,3 +32,18 @@ At the top is a vault of magic items (no runes or weapons, though) and a telepor
 
 note for later: the Arbiter has a transformation into an [adult mocking dragon](https://2e.aonprd.com/Monsters.aspx?ID=4151)
 
+## Session 9
+The PCs have just finished beating up the first group of nabasu and erinye.
+
+First they'll run into the vault with a few magic items. They'll also get a level up (though tell them before the session).
+
+The second floor has the fight against the sarglagons, with the added ability to rotate the building.
+Roughly speaking, the segment is a hexagonal prism, with a column of water down the middle.
+The water is suspended magically, and there are still windows letting the storm in.
+
+Have the one fight and some puzzle/setpiece moments. Some ideas:
+
+- Big maze of windows letting the storm in, some rolls to get through
+- Obtaining some macguffin or other which they need to not break
+
+Then they need to realign the tower in order to teleport. Then a level up and on to the final fight.
