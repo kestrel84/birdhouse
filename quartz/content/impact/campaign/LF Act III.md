@@ -42,8 +42,11 @@ First they'll run into the vault with a few magic items. They'll also get a leve
 - A pair of [bloodknuckles](https://2e.aonprd.com/Equipment.aspx?ID=2559) 
 - A [crown of the fire eater](https://2e.aonprd.com/Equipment.aspx?ID=1435) 
 - A [robe of the erinyes](https://2e.aonprd.com/Equipment.aspx?ID=4183) (though this is found on the body of the erinye and not in the vault)
+- A gyroscope-looking device, football-sized, which controls the second segment, though the PCs don't find that out immediately.
+(Ria fiddling with it will show its functionality if the PCs are not sufficiently curious)
 
-The source of the water pillar in the second segment is in the first, and the portal linking the two is the only way to get through without knowing the password to the magic door which normally gets you up there.
+The source of the water pillar in the second segment is in the first, and the portal linking the two is the only way to get through without having the key to the magic door which normally gets you up there.
+Normally a magus holds the key, but the whole tower's been evacuated/killed and he's nowhere to be found.
 
 The second floor has the fight against the sarglagons, with the added ability to rotate the building.
 Roughly speaking, the segment is a hexagonal prism, with a column of water down the middle.
@@ -52,6 +55,6 @@ The water is suspended magically, and there are still windows letting the storm 
 Have the one fight and some puzzle/setpiece moments. Some ideas:
 
 - Big maze of windows letting the storm in, some rolls to get through. Pehaps a whole ass side wall of the tower gets busted.
-- Obtaining some macguffin or other which they need to not break (key to the next floor, probably).
+- Obtaining some macguffin or other which they need to not break (key to the next floor, probably, a crystal orb of some kind).
 
 Then they need to realign the tower in order to teleport. Then a level up and on to the final fight.
