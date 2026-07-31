@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1 class="title">
+  {{ section.title }}
+</h1>
+{{ section.content | safe }}
+
+<div style="display: flex">
+{% if section.subsections %}
+<div style="flex-grow: 1;">
+  <h4>Subsections</h4>
+  <ul>
+  {% for subsection in section.subsections %}
+    {% set subsec = get_section(path=subsection) %}
+    <li><a href="{{ subsec.permalink | safe }}">{{ subsec.title }}</a></li>
+  {% endfor %}
+  </ul>
+</div>
+{%endif%}
+
+
+
+{% if section.pages %}
+<div style="flex-grow: 1;">
+  <h4>Pages</h4>
+  <ul>
+    {% for page in section.pages %}
+    <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+{%endif%}
+</div>
+
+{% endblock content %}

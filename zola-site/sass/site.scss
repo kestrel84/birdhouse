@@ -1,0 +1,29 @@
+// making bullet points less indented
+ul {
+  padding-left: 20px
+}
+
+// make links change colour instead of underlining when hovered
+a:hover {
+  text-decoration: none;
+  color: var(--hovered-links)
+}
+
+.li-section::marker {
+  content: "+ "
+}
+
+.li-page::marker {
+  content: "- "
+}
+
+
+
+// altering the water.css colours
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-body: #161618;
+    --links: #ba6500;
+    --hovered-links: #e0871a;
+  }
+}

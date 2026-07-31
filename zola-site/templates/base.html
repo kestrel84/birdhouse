@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- The base template from which all others inherit. -->
+
+
+<head>
+  <meta charset="utf-8">
+  <title>Kestrel's Birdhouse</title>
+  <link rel="stylesheet" href="{{ get_url(path='water.css') }}">
+  <link rel="stylesheet" href="{{ get_url(path='site.css') }}">
+
+
+  <!-- Load math libraries (if the page says so) -->
+  {% if page is defined and page.extra and page.extra.math %}
+    <link rel="stylesheet" href="{{ get_url(path='/js/katex/katex.min.css') }}" integrity="sha384-{{ get_hash(path='/js/katex/katex.min.css') }}">
+    <script defer src="{{ get_url(path='/js/katex/katex.min.js') }}" integrity="sha384-{{ get_hash(path='/js/katex/katex.min.js') }}"></script>
+    <script defer src="{{ get_url(path='/js/katex/contrib/auto-render.min.js') }}" integrity="sha384-{{ get_hash(path='/js/katex/contrib/auto-render.min.js') }}"></script>
+    <script defer src="{{ get_url(path='/js/katex-config.js') }}" integrity="sha384-{{ get_hash(path='/js/katex-config.js') }}"></script>
+  {% endif %}
+
+</head>
+
+<body style="display: flex; max-width: unset;">
+  <div style="flex-grow: 1"></div>
+  <aside style="width: 300px; position: sticky; height: fit-content; top: 20px;">
+    <nav>
+      <h1><a href="{{config.base_url}}">Kestrel's<br>Birdhouse<a></h3>
+      {% set basesection = get_section(path="_index.md") %}
+
+      <ul>
+      {% for subsec in basesection.subsections %}
+          {% set subsection = get_section(path=subsec) %}
+          <li class="li-section">
+            <a href={{subsection.permalink}}>{{ subsection.title }}</a>
+            <ul>
+
+              {% for subsubsec in subsection.subsections %}
+                {% set subsubsection = get_section(path=subsubsec) %}
+                <li class="li-section">
+                  <a href={{subsubsection.permalink}}>{{ subsubsection.title }}</a>
+                  <ul>
+
+                    {% if subsubsection.pages %}
+                    {% for page in subsubsection.pages %}
+                        <li class="{% if current_path == page.path %}active{% endif %} li-page">
+                            <a href="{{page.permalink}}">{{page.title}}</a>
+                        </li>
+                    {% endfor %}
+                    {% endif %}
+
+
+                  </ul>
+                </li>
+              {% endfor %}
+
+              {% for page in subsection.pages %}
+                  <li class="{% if current_path == page.path %}active{% endif %} li-page">
+                      <a href="{{page.permalink}}">{{page.title}}</a>
+                  </li>
+              {% endfor %}
+            </ul>
+          </li>
+      {% endfor %}
+
+
+      {% for page in basesection.pages %}
+        <li class="li-page">
+          <a href={{page.permalink}}>{{ page.title }}</a>
+        </li>
+      {% endfor %}
+      </ul>
+    </nav>
+  </aside>
+  <main style="
+    width: 1000px;
+    border-left: 1px solid #302d30;
+    border-right: 1px solid #302d30;
+    padding: 0 20px;
+    margin: 0 20px;
+    ">
+    <div>
+      {% block content %} {% endblock content %}
+    </div>
+  </main>
+  <aside style="width: 300px; position: sticky; height: fit-content; top: 20px;">
+    {% if page.toc %}
+      <h3>Table of Contents</h3>
+    
+      <ul>
+      {% for h1 in page.toc %}
+        <li>
+          <a href="{{ h1.permalink | safe }}">{{ h1.title }}</a>
+          {% if h1.children %}
+            <ul>
+              {% for h2 in h1.children %}
+                <li>
+                  <a href="{{ h2.permalink | safe }}">{{ h2.title }}</a>
+                  {% if h2.children %}
+                    <ul>
+                      {% for h3 in h2.children %}
+                        <li>
+                          <a href="{{ h3.permalink | safe }}">{{ h3.title }}</a>
+                        </li>
+                      {% endfor %}
+                    </ul>
+                  {% endif %}
+
+                </li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </li>
+      {% endfor %}
+      </ul>
+    {% endif %}
+  </aside>
+  <div style="flex-grow: 1"></div>
+</body>
+
+</html>
