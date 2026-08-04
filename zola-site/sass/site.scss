@@ -17,13 +17,13 @@ a:hover {
   content: "- "
 }
 
-
-
 // altering the water.css colours
 @media (prefers-color-scheme: dark) {
   :root {
     --background-body: #161618;
+    --background: #27272b;
     --links: #ba6500;
     --hovered-links: #e0871a;
+    --background-alt: #27272b;
   }
 }

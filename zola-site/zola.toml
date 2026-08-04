@@ -13,5 +13,4 @@ build_search_index = false
 theme = "catppuccin-mocha"
 
 [extra]
-math = true
 # Put all your custom variables here
