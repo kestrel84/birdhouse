@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 main() {
     ZOLA_VERSION=0.22.1
 
