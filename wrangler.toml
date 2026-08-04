@@ -1,0 +1,9 @@
+name = "blog"
+compatibility_date = "2026-08-04"
+
+[build]
+command = "npx quartz build"
+cwd = "./quartz"
+
+[assets]
+directory = "./quartz/public"
