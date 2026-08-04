@@ -61,3 +61,17 @@ Have the one fight and some puzzle/setpiece moments. Some ideas:
 - Obtaining some macguffin or other which they need to not break (key to the next floor, probably, a crystal orb of some kind).
 
 Then they need to realign the tower in order to teleport. Then a level up and on to the final fight.
+
+## Session 10
+The PCs have now encountered the Arbiter at the top of the tower. The general plan of the fight is something like this:
+
+1. A pretty normal first phase
+  - As before, the arbiter uses the stat block of a [coloxus](https://2e.aonprd.com/Monsters.aspx?ID=3363), though with some changes, like:
+  - A big blast attack where he plasma ball's the entire arena, which can only be avoided with cover; it cannot be dodged or reflex saved. It does 4d6 lightning and 4d6 fire on hit.
+  - No summoning other monsters
+2. A transition phase of sorts, where the arbiter finally realizes his plans and blows up the entire spire.
+Cue a couple of turns of free fall combat where the Arbiter is still just about in human form and they are falling through the wreckage of the spire while fighting and the city is plane shifting around them.
+3. A second phase where the arbiter has fully turned into an [adult mocking dragon](https://2e.aonprd.com/Monsters.aspx?ID=4151).
+The planes are still shifting and most of the arbiter's attacks are swapped out for plane-manipulation ones (opening a whole lot of portals, ripping holes in spacetime kinda vibe).
+
+Rick page: (hopefully this works) [here](https://pathbuilder2e.com/launch.html?build=1537308)
