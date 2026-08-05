@@ -1,5 +1,6 @@
 ---
 title: "Character Creation Guide"
+date: 2026-05-14
 ---
 # UNFINISHED
 

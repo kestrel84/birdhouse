@@ -86,7 +86,21 @@
   <aside style="width: 300px; position: sticky; height: fit-content; top: 20px;">
     {% if page.toc %}
       <h3>Table of Contents</h3>
-    
+
+
+      {% for an in page.ancestors %}
+        {% set ancestorsection = get_section(path=an) %}
+        {% if ancestorsection.extra.spoilers %}
+          {% set_global spoiler = true %}
+        {% endif %}
+      {% endfor %}
+
+
+      {% if spoiler %}
+      <details>
+        <summary>Spoilers Ahead!</summary>
+      {% endif %}
+
       <ul>
       {% for h1 in page.toc %}
         <li>
@@ -113,6 +127,12 @@
         </li>
       {% endfor %}
       </ul>
+
+
+      {% if spoiler %}
+      </details>
+      {% endif %}
+
     {% endif %}
   </aside>
   <div style="flex-grow: 1"></div>
