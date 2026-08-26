@@ -26,6 +26,12 @@ The church of the seven comets worships seven deities:
 These are, in truth, the party of seven who defeated Xandar, the aforementioned warlock of Tiamat.
 The church was founded many years after the fracture and worships their legend.
 
+### A note on classes
+Warlocks and sorcerers are banned by the church and hunted down as heretics. Druids and bards are all in hiding, and very rare. Organisations like druid circles are rarer still and can only be found far out in the fracture. Clerics and wizards are heavily regulated by the church, and while dissenters do exist, they are treated as heretics.
+Half-casters are as their 'parent' class  (paladin -> cleric, ranger -> druid, eldritch knight -> wizard, etc.).
+
+This is not to say that warlocks, sorcerers, rougue clerics or paladins, druids or bards don't exist, they do and you can play them. The more improbable your origin, the more interesting the story behind it - so a warlock coming from Auris, the church's greatest stronghold, would have to have a very good reason not to have been hanged.
+
 ## Blacktooth Rock
 This is where we start our story. A lonely town hanging precariously off the edge of a cliff before the endless seas, it is host to many a diver and more than a little vice and sin.
 Places this far out are some of the last refuges of the warlocks and sorcerers, those hunted by the church, and if you're lucky you might even catch a wandering druid or bard.
