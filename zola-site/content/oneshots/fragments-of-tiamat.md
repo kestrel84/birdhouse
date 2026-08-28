@@ -39,7 +39,33 @@ Places this far out are some of the last refuges of the warlocks and sorcerers, 
 It is so named for the foreboding sight, far off in the waves, of a pitch-black rock shaped like a sharp tooth. None dare venture near.
 Well, almost none. Someone with too much incense and not enough candles has hired a couple of crews to retrieve an artefact rumoured to contain secrets from before the Fracture.
 
+----
+
 ## Session 1
 The PCs are in search of an ancient ring from before the fracture.
 The first crew is retrieving the ring from deep down at the base of the blacktooth (which is in fact an ancient magus tower of unmatched height) and the second is carrying the heavy containment for the ring, which the PCs find out is actually a mechanical doll.
 Once the ring is placed on the doll, it's revealed that it contains the psyche of one of the comets.
+
+
+### Underwater combat
+The rules are:
+- Speed is halved for creatures without a swimming speed.
+- Unless a creature has a swim speed, non-piercing melee weapons have disadvantage.
+- Ranged weapons miss outside their normal range and have disadvantage inside it.
+
+There are two combats, both in library-style environments.
+### Combat 1
+- The first is inside a very large air pocket, but there's a fragile wall or three. It is against ~7 enemies.
+  - 4 [air elementals](https://5e.tools/bestiary.html#air%20elemental_xmm)
+  - 3 [ruin spiders](https://5e.tools/bestiary.html#ruin%20spider_bmt)
+- the arena is full of very high bookshelves and is dark, like the rest of the tower.
+- It is, however, not underwater.
+- the walls are weak; they can be destroyed (AC 10, 20HP) and this will flood the area (DEX 16, 4d6 basic bludgeoning). Each wall floods the room by 1 meter before stopping,
+with two walls causing the players to have to swim or operate underwater, and four causing the room to be completely flooded.
+It stops by some self-repair spell kicking in, the same one responsible for the endurance of the tower as a whole, reassembling the wall.
+- The spiders do an ambush from the ceiling, unless spotted first.
+
+### Combat 2
+- The second has air plane fragments blipping in occasionally and is otherwise underwater.
+- It is against 2 [darkweavers](https://5e.tools/bestiary.html#darkweaver_mpp).
+- An air fragment cutting in causes all the water to dissapear. Everything in it falls to the floor, possibly taking fall damage, but it is not underwater any more.
