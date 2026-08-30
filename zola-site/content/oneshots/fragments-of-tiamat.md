@@ -69,3 +69,14 @@ It stops by some self-repair spell kicking in, the same one responsible for the 
 - The second has air plane fragments blipping in occasionally and is otherwise underwater.
 - It is against 2 [darkweavers](https://5e.tools/bestiary.html#darkweaver_mpp).
 - An air fragment cutting in causes all the water to dissapear. Everything in it falls to the floor, possibly taking fall damage, but it is not underwater any more.
+
+## Session 2
+The PCs have to pick up the party from session 1 and ferry them and the ring back to the shore, contending with both a sea monster and a bunch of church ships showing up to ruin their day.
+
+First they have to rescue the first crew, fighting the [sea snake](https://5e.tools/bestiary.html#core%20spawn%20worm_egw) or distracting it.
+
+Then they have to deal with the three church galleons (specifically of the Scythes of Talandar) which pull up, in whatever way they see fit. They approach in a triangle fashion, with one ship leading and two trailing. They are all guarded by:
+- A [commander](https://5e.tools/bestiary.html#githyanki%20supreme%20commander_mpmm) wielding a scythe.
+- 3 [brawler goons](https://5e.tools/bestiary.html#human%20brawler_whereevillives)
+- 2 [spear n shield goons](https://5e.tools/bestiary.html#akroan%20hoplite_mot)
+
