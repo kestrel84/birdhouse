@@ -24,19 +24,23 @@ There are three narrative threads, which all converge for the conclusion:
 - Shuri the researcher
 - Calliope the undercover agent
 
-And they all take place within the context of a cold-ish war between the Federation and the Empire, but tensions are extremely high on both sides. See Calli's section for more info on the start of the war.
+And they all take place within the context of a cold-ish war between the Federation and the Empire, but tensions are extremely high on both sides. See Calli's section for more info on the start of the war, and the conclusion.
 
 ### Graves
 Graves Stone is currently one of the PCs, but has amnesia and doesn't know what he was up to before being found somewhere by season 1's Captain Jack. He is involved in the story as one of the three main characters, pre-amnesia.
 
-Ben (the player) is hopefully going to send me some info about his personality pre-amnesia, though in absence of that he's a smooth-talking james bond-y kinda superspy with a very strong allegiance to his employer (the Peraxian spy bureau, better name pending) and the federation generally.
+~~Ben (the player) is hopefully going to send me some info about his personality pre-amnesia, though in absence of that he's a smooth-talking james bond-y kinda superspy with a very strong allegiance to his employer (the Peraxian spy bureau, better name pending) and the federation generally.~~
+With the info from Ben, he's much more of a medium-time criminal than a super spy. His ammnesia is also from dying and resurrecting rather than magical means; the only info from before the resurrection is a pretty classic job-gone-wrong shot-in-the-back-by-employer type beat.
+
+As for how this affects the plot, it doesn't really. He can get the job to steal the macguffin from the spies pretending to be shady people or something, and end up in the same exact sitch. It does affect how Graves engages with the story, as he now doesn't really have a stake in it, and is instead along for the ride. This may work to my advantage, as Ben can perhaps roleplay preciesly what Graves thinks of events as they unfold.
 
 His role in the plot looks a lot like A New Hope and goes something like this:
-- Finds secret information about something war-critical deep in Empire territory. What this is doesn't matter too much.
+- Gets set up by the peraxian spy bureau to heist a macguffin, cover for empire territory and all
+- Finds secret information about something war-critical/other macguffin deep in Empire territory. What this is doesn't matter too much.
 - Finding this busts his cover, shenanigans ensue, gets in the shit
 - Has to get rescued by Calli
 - Delivers info to Shuri w/ Calli
-- Has his mind wiped for his troubles and yeeted to the mid circles
+- Is killed and yeeted to the mid circles, just outside the future location of the blacksphere.
 
 ### Shuri
 Shuri Sobek is an old character from the Fable of Sylvia, and Hermia's wife. At the time of the story, she is a powerful wizard and researcher of magic for the Federation's R&D bureau.
@@ -66,7 +70,37 @@ As for the main plot:
   - This requires doing a little charming on one Darius Stendahl, seventh in line for the emperor position, the Throne of Nothing. He has a fast ship with some fancy camoflage tech or something.
   - Calli convinces him that they're both double agents or something and his dumb ass immediately believes it, ferrying them to the federation
 - Bring the data to Shuri w/ Graves
-- Graves gets mind wiped
+- Graves gets killed
 - Empire shows up looking for their missing heir, inadvertantly re-discovering the secret R&D facility and kicking off the war proper
 - Amid the destruction of the lab and death of almost everyone around them, she and shuri detonate the blacksphere device. 
 
+## Places
+Places which occur in the narrative section above; for building out the galaxy map. I need at least 22 (the total amount of sessions in the campaign)
+
+1. Shuri's initial research base (destroyed space station, probably)
+2. Shuri's final research base
+  - The PC's home base of sorts for the campaign. 
+  - The place where the blacksphere device was set off
+  - The only easily habitable place in the blacksphere due to posessing a large crystal of the same material as posessed by the Storm Chaser
+    - This crystal's protection, however, only works in a radius much smaller than the size of the whole base.
+  - Very close to the center of the galaxy
+3. The place graves gets his comission
+4. The initial location of the macguffin
+5. Where Graves gets captured (or something) and then rescued by Calli
+  - Possibly split this into two places: where he gets hustled and where he breaks out from
+6. Where Calli gets a hold of Darius and his ship 
+7. Where Calli gets info about the macguffin independently 
+8. Where Calli reports her info to her federation handler
+
+Other ideas, filling in the gaps of sorts:
+- Someplace shuri finds and fits out her final base before moving it to the center of the galaxy (shipyards?)
+- A Calli arena performance or two
+- Separate the place where Calli finds Darius vs where they go for his ship?
+
+
+## Player Story
+This is what the players are up to, as opposed to the narrative happening 100ish years ago. As of the start of the campaign, they have one concrete objective (get out) and one lead.
+
+They can get out by destroying the blacksphere by disabling the device which sustains it. It is (in fact) in the center of their home base, but they don't know that, especially given that the home base is much larger than the area the crystal protects. It cannot initially be disabled for reasons not yet determined. They must follow the narrative to figure out how to disable it.
+
+> [!TODO] why do the players care about the narrative?
