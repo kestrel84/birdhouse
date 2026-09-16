@@ -103,4 +103,24 @@ This is what the players are up to, as opposed to the narrative happening 100ish
 
 They can get out by destroying the blacksphere by disabling the device which sustains it. It is (in fact) in the center of their home base, but they don't know that, especially given that the home base is much larger than the area the crystal protects. It cannot initially be disabled for reasons not yet determined. They must follow the narrative to figure out how to disable it.
 
-> [!TODO] why do the players care about the narrative?
+**why do the players care about the narrative?**
+- Graves: he's involved in it; that's him told
+- Eeta: No current reason
+  - Perhaps something to do with the oortling legacy? Maybe a lot of Shuri's techs were oortlings, and/or Darius stole his ship's fancy cloaking technique from some oortlings
+- Olem: No current reason; not much character.
+- Azeglio: No current reason
+  - Idea: Calli plays at a circus? Or collabs with a circus in some way?
+- CB: No current reason; not much character.
+
+Note: Olem and CB have backstories which I don't remember. I will work them in if they display more character during the campaign.
+All the characters will also have mechanical reasons to follow the story via side quests for gear and ship tech.
+
+### Ember & Kira
+As the two NPCs on the ship with the PCs when shit goes sideways, they have some serious opinions.
+
+Ember:
+- Wishes to begin the work of cataloging the preserved history inside the blacksphere, under the assumption that when the sphere presumably collapses, everyone will come rushing in with little regard for preservation. This is founded on her time on the Astral Island, which was as much as anything else a place of storing historical records.
+- To this end, she tags along with the players, perhaps occasionally suggesting where they go, and records as much as possible, venturing out on her own when the PCs stop.
+
+Kira:
+- Stays at the home base as soon as the PCs get there. Given the large oortling population and Kira's curiosity, she wants to investigate as much as possible.
