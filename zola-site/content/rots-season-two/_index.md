@@ -1,12 +1,12 @@
 +++
-title = "Riders on the Storm"
+title = "ROTS Season 2"
 sort_by = "title"
 weight = 2
 page_template = "spoiler.html"
 [extra]
 spoilers = true
 +++
-Name still pending. Ideas:
+Riders on the Storm season two. Name still pending. Ideas:
 - The Blackfire Torch
 - Songs of the Spheres
 

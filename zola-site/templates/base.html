@@ -84,7 +84,7 @@
     </div>
   </main>
   <aside style="width: 300px; position: sticky; height: fit-content; top: 20px;">
-    {% if page.toc %}
+    {% if page is defined and page.toc %}
       <h3>Table of Contents</h3>
 
 
