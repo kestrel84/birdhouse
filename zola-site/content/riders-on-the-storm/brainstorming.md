@@ -146,7 +146,7 @@ a bunch of lenses suspended in space in front of a small asteroid which houses t
 
 #### Ringworld 
 a ring going all the way around the sun (not an orbital). Constructed aeons ago by unknown peoples, and virtually indestructible.
-#### Gemini depot $\Omega$-17 
+#### Gemini depot Omega-17 
 One of Gemini Inc.'s warehouse-asteroids. The interior is a mess of zero-g shelving and boxes floating around of their own volition, and is highly dangerous.
 #### Klemperer Rosette
 a system of five bodies all orbiting a common center in a pretty pattern.
