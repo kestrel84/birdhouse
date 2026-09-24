@@ -108,7 +108,7 @@ Extra ideas for places the characters can turn up in without being directly invo
 16. The seat of the Federation (the [Radiant Starcutter](@/riders-on-the-storm/brainstorming.md#radiant-starcutter))
 
 Miscellaneous ideas for cool places (see also: [misc places](@/riders-on-the-storm/brainstorming.md#miscellaneous-places))
-- A ruined interstellar train nexus
+- A ruined interstellar train terminal
 - A shattered orbital
 - A hollow planet
 
