@@ -79,7 +79,10 @@ As for the main plot:
 Places which occur in the narrative section above; for building out the galaxy map. I need at least 22 (the total amount of sessions in the campaign)
 
 1. Shuri's initial research base (destroyed space station, probably)
+  - Name: Wildfire Station
+  - See notebook for visuals
 2. Shuri's final research base
+  - Name: The Blackfire Torch
   - The PC's home base of sorts for the campaign.
   - The place where the blacksphere device was set off
   - The only easily habitable place in the blacksphere due to posessing a large crystal of the same material as posessed by the Storm Chaser
@@ -99,6 +102,7 @@ Places which occur in the narrative section above; for building out the galaxy m
 
 Extra ideas for places the characters can turn up in without being directly involved with the plot:
 9. Graves' old haunt - a pretty centered orbital with one massive city on it running almost half the 500,000km diameter of the ring
+  - Could bear the marks of being rapidly converted into a forward operating base for the Peraxian military
 10. Someplace shuri finds and fits out her final base before moving it to the center of the galaxy (shipyards?)
 11. A Calli arena performance or two
 12. Federation and Empire military bases (space stations) for more about the state of the war
