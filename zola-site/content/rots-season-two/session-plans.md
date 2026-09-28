@@ -1,5 +1,5 @@
 +++
-title = "Narrative Plans"
+title = "Session Plans"
 date = 2026-09-27
 +++
 ## Session I (01-10-2026)

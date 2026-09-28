@@ -78,10 +78,10 @@ As for the main plot:
 ## Places
 Places which occur in the narrative section above; for building out the galaxy map. I need at least 22 (the total amount of sessions in the campaign)
 
-1. Shuri's initial research base (destroyed space station, probably)
-  - Name: Wildfire Station
+1. Shuri's initial research base (destroyed space station, probably) (**JN-917**)
+  - Name: Wildfire Spindle
   - See notebook for visuals
-2. Shuri's final research base
+2. Shuri's final research base (**JV-189**)
   - Name: The Blackfire Torch
   - The PC's home base of sorts for the campaign.
   - The place where the blacksphere device was set off
@@ -90,31 +90,35 @@ Places which occur in the narrative section above; for building out the galaxy m
   - Very close to the center of the galaxy
   - Staffed mostly by oortlings, as their psi crystals gave them superior memory over elven timespans than most other races
 
-3. The place Graves gets his comission
-4. The initial location of the amplifier
-5. Where Graves gets captured (or something) and then rescued by Calli
+3. The place Graves gets his comission (**HX-918**)
+4. The initial location of the amplifier (**MM-173**)
+5. Where Graves gets captured (or something) and then rescued by Calli (**SS-918**)
   - Possibly split this into two places: where he gets hustled and where he breaks out from
 
-6. Where Calli gets a hold of Darius and his ship 
+6. Where Calli gets a hold of Darius and his ship (**SN-134** and **SN-212** respectively)
   - Separate the place where Calli finds Darius vs where they go for his ship?
-7. Where Calli gets info about the magic amplifier independently 
-8. Where Calli reports her info to her federation handler
+7. Where Calli gets info about the magic amplifier independently (**SI-801**)
+8. Where Calli reports her info to her federation handler (**PX-564**)
 
 Extra ideas for places the characters can turn up in without being directly involved with the plot:
-9. Graves' old haunt - a pretty centered orbital with one massive city on it running almost half the 500,000km diameter of the ring
+9. Graves' old haunt - a pretty centered orbital with one massive city on it running almost half the 500,000km diameter of the ring (**HX-23**)
   - Could bear the marks of being rapidly converted into a forward operating base for the Peraxian military
-10. Someplace shuri finds and fits out her final base before moving it to the center of the galaxy (shipyards?)
+10. Someplace shuri finds and fits out her final base before moving it to the center of the galaxy (shipyards?) (**PV-732**)
 11. A Calli arena performance or two
 12. Federation and Empire military bases (space stations) for more about the state of the war
 13. Some Empire temple or palace or something where Calli and Darius meet for the first time
 14. The secret hiding place of a great trove of oortling knowledge (related in some way to the oortlings staffing shuri's main station and the PCs home base)
-15. The seat of the Empire ([Nowhere](@/riders-on-the-storm/brainstorming.md#nowhere))
-16. The seat of the Federation (the [Radiant Starcutter](@/riders-on-the-storm/brainstorming.md#radiant-starcutter))
+15. The seat of the Empire ([Nowhere](@/riders-on-the-storm/brainstorming.md#nowhere)) (Not on the map, but close to **SV-676**)
+16. The seat of the Federation (the [Radiant Starcutter](@/riders-on-the-storm/brainstorming.md#radiant-starcutter)) (**PX-457**)
 
 Miscellaneous ideas for cool places (see also: [misc places](@/riders-on-the-storm/brainstorming.md#miscellaneous-places))
 - A ruined interstellar train terminal
 - A shattered orbital
 - A hollow planet
+
+
+The map itself:
+![galaxy map](/rots-season-two/galaxy-map.svg)
 
 
 ## Player Story
