@@ -1,5 +1,5 @@
 # This repository is archived.
-It has migrated to [codeberg.org/kestrelv84/pages](codeberg.org/kestrelv84/pages).
+It has migrated to [here](https://codeberg.org/kestrelv84/pages).
 
 # The birdhouse
 This be muh website
